@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "里"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "label": "稲真里",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=6999,11564,1110,797",
+    "objectID": "7ef02c04a73bda51bfad97d354ff1db8",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/6999,11564,1110,797/200,/0/default.jpg",
+    "図": [
+        "尾張国富田庄知行古図"
+    ]
+}

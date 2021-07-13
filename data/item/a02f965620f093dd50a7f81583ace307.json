@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "label": "十二条八里十七坪",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=12741,2961,2242,980",
+    "objectID": "a02f965620f093dd50a7f81583ace307",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/12741,2961,2242,980/200,/0/default.jpg",
+    "図": [
+        "乙木庄条里坪付図"
+    ]
+}

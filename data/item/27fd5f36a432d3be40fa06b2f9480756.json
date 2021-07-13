@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "label": "石丸",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=9651,3946,489,398",
+    "objectID": "27fd5f36a432d3be40fa06b2f9480756",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/9651,3946,489,398/200,/0/default.jpg",
+    "図": [
+        "尾張国富田庄知行古図"
+    ]
+}

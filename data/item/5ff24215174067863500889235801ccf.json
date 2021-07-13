@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "label": "八段　一反小　三反　一反",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12574,5537,1065,699",
+    "objectID": "5ff24215174067863500889235801ccf",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/12574,5537,1065,699/200,/0/default.jpg",
+    "図": [
+        "但馬国神戸郷絵図"
+    ]
+}

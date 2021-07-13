@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "label": "伊麦里",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=4133,6958,512,805",
+    "objectID": "9b1f1f7f0c30175484f2088027969e81",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/4133,6958,512,805/200,/0/default.jpg",
+    "図": [
+        "尾張国富田庄知行古図"
+    ]
+}

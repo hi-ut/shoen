@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "村"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "label": "佐々小村",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8599,15156,524,296",
+    "objectID": "b40d985c97b43c1d83cd5ea6cf700f29",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/8599,15156,524,296/200,/0/default.jpg",
+    "図": [
+        "紀伊国神野真国御庄絵図　康治二年"
+    ]
+}

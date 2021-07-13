@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-341-1.json",
+    "label": "ミタケアト",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/fe8a1ee96488d525108a960d38fb1e75/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7752,3441,386,650",
+    "objectID": "d25adcb6f0cfdbbe655c2b7b0be52098",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/7752,3441,386,650/200,/0/default.jpg",
+    "図": [
+        "陸奥国骨寺絵図（詳細図）　[表]"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "宮"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-341-3.json",
+    "label": "六所宮",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/3fd93cf97c1b6000149df96f6637640c/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5132,5519,439,958",
+    "objectID": "acae376a588c52d11358a28b74187520",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/5132,5519,439,958/200,/0/default.jpg",
+    "図": [
+        "陸奥国骨寺絵図（簡略図）"
+    ]
+}

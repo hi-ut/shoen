@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "山"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "label": "八幡山",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6209,9166,401,607",
+    "objectID": "3ef1ac3c3bb3ea63ce7854fd1e9b7fa7",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/6209,9166,401,607/200,/0/default.jpg",
+    "図": [
+        "足守庄図"
+    ]
+}

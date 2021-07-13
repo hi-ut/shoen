@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "谷"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-67.json",
+    "label": "谷",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=5648,4264,326,284",
+    "objectID": "92ef6f14c84189142d0fafb069309780",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/5648,4264,326,284/200,/0/default.jpg",
+    "図": [
+        "明月院古図"
+    ]
+}

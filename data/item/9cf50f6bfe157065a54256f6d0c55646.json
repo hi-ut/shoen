@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "label": "苔江",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=9578,12324,836,729",
+    "objectID": "9cf50f6bfe157065a54256f6d0c55646",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/9578,12324,836,729/200,/0/default.jpg",
+    "図": [
+        "尾張国富田庄知行古図"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "寺"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-39.json",
+    "label": "神護寺",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1#xywh=8241,6700,1405,1162",
+    "objectID": "e634888af8208a622a6a0dc2b1deea58",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/8241,6700,1405,1162/200,/0/default.jpg",
+    "図": [
+        "主殿寮御領小野山与神護寺領堺相論指図"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "label": "ハムロ　一町　□□□（百姓□カ）",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=11348,3608,1073,848",
+    "objectID": "39bc72dc49221fab8f67630904623948",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/11348,3608,1073,848/200,/0/default.jpg",
+    "図": [
+        "但馬国神戸郷絵図"
+    ]
+}

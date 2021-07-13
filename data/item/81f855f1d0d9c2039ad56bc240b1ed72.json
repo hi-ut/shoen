@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "付箋"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "label": "（付箋）「秋篠方申云、於此池者、四分三ハ秋篠寺進退、今四分一ハ西大寺 進退之由、見于大治宣旨、而当時為西大寺、一向被打塞此樋之由、申之」",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=17347,6190,2689,604",
+    "objectID": "81f855f1d0d9c2039ad56bc240b1ed72",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/17347,6190,2689,604/200,/0/default.jpg",
+    "図": [
+        "大和国西大寺与秋篠寺堺相論絵図"
+    ]
+}

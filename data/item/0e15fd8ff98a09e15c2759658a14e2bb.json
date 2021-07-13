@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "方位"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-119.json",
+    "label": "南",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/canvas/p1#xywh=7785,14597,393,432",
+    "objectID": "0e15fd8ff98a09e15c2759658a14e2bb",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/7785,14597,393,432/200,/0/default.jpg",
+    "図": [
+        "称名寺古図"
+    ]
+}

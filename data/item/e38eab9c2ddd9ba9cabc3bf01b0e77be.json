@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "寺"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "label": "十音寺",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=7460,5731,420,733",
+    "objectID": "e38eab9c2ddd9ba9cabc3bf01b0e77be",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/7460,5731,420,733/200,/0/default.jpg",
+    "図": [
+        "尾張国富田庄知行古図"
+    ]
+}

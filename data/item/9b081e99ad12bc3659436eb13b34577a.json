@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "寺"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-67.json",
+    "label": "安国寺",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=13205,15650,454,755",
+    "objectID": "9b081e99ad12bc3659436eb13b34577a",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/13205,15650,454,755/200,/0/default.jpg",
+    "図": [
+        "明月院古図"
+    ]
+}

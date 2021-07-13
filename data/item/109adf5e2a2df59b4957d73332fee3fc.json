@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "label": "タワシモト　五段",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=8493,3044,434,892",
+    "objectID": "109adf5e2a2df59b4957d73332fee3fc",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/8493,3044,434,892/200,/0/default.jpg",
+    "図": [
+        "膳夫庄差図"
+    ]
+}

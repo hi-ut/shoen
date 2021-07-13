@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "村"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "label": "山津屋村",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1255,21980,770,394",
+    "objectID": "08a85c7b3129efa6bd83fb5bb94d2e00",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1255,21980,770,394/200,/0/default.jpg",
+    "図": [
+        "揖保川筋堰図"
+    ]
+}

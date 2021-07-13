@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "花押"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-172.json",
+    "label": "(花押)",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=12567,16371,1230,1020",
+    "objectID": "2d89802fc74b9dffd9481d965fa3efea",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/12567,16371,1230,1020/200,/0/default.jpg",
+    "図": [
+        "舎那院御領之絵図"
+    ]
+}

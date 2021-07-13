@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "label": "上余部",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7246,23977,681,639",
+    "objectID": "b4445d56e73346697fb1b3d08a21433b",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7246,23977,681,639/200,/0/default.jpg",
+    "図": [
+        "揖保川筋堰図"
+    ]
+}

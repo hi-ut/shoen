@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "label": "北條内長瀬村",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=3706,4127,240,114",
+    "objectID": "ea0936a8e7577edc99e9ae181589094b",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/3706,4127,240,114/200,/0/default.jpg",
+    "図": [
+        "伯耆国河村郡東郷庄之図"
+    ]
+}

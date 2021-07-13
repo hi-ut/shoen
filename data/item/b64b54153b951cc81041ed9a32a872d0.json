@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-55.json",
+    "label": "外領入",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=1597,7562,530,790",
+    "objectID": "b64b54153b951cc81041ed9a32a872d0",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/1597,7562,530,790/200,/0/default.jpg",
+    "図": [
+        "箸喰庄差図"
+    ]
+}

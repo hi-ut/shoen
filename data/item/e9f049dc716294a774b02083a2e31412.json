@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "label": "ひへがはな",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=711,18691,799,461",
+    "objectID": "e9f049dc716294a774b02083a2e31412",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/711,18691,799,461/200,/0/default.jpg",
+    "図": [
+        "揖保川筋堰図"
+    ]
+}

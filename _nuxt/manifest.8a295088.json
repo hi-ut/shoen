@@ -1,0 +1,12 @@
+{
+  "name": "史料編纂所所蔵荘園絵図摸本データベース",
+  "short_name": "荘園",
+  "description": "史料編纂所所蔵荘園絵図摸本データベースのプロトタイプシステムです。",
+  "icons": [],
+  "start_url": "/shoen/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}

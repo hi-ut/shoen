@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "界"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-67.json",
+    "label": "長之界",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=16167,3013,350,734",
+    "objectID": "bdf56775a4c79aed4f31a1b477e85815",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/16167,3013,350,734/200,/0/default.jpg",
+    "図": [
+        "明月院古図"
+    ]
+}

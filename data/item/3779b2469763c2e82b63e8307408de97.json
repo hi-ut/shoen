@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-67.json",
+    "label": "龍峰庵",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=19990,9820,985,523",
+    "objectID": "3779b2469763c2e82b63e8307408de97",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/19990,9820,985,523/200,/0/default.jpg",
+    "図": [
+        "明月院古図"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/波-305.json",
+    "label": "小竹中尾",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=766,770,1337,916",
+    "objectID": "86fd0e504bb751d31ebd3f243db20dac",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/766,770,1337,916/200,/0/default.jpg",
+    "図": [
+        "井上庄絵図"
+    ]
+}

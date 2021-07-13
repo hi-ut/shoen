@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "label": "ゼントク　一町",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=14248,1929,928,991",
+    "objectID": "873a2a666980732329286d258a805dca",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/14248,1929,928,991/200,/0/default.jpg",
+    "図": [
+        "膳夫庄差図"
+    ]
+}

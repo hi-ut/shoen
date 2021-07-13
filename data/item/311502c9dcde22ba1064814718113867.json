@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "方位"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-68.json",
+    "label": "北",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=6768,2420,806,752",
+    "objectID": "311502c9dcde22ba1064814718113867",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/6768,2420,806,752/200,/0/default.jpg",
+    "図": [
+        "円覚寺境内古図"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "裏書"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-172.json",
+    "label": "嵯峨舎那院御領絵図\n建永二年八月十六日",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=12236,12662,6786,2949",
+    "objectID": "0698712156c8639e8267612959cc5b52",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/12236,12662,6786,2949/200,/0/default.jpg",
+    "図": [
+        "舎那院御領之絵図"
+    ]
+}

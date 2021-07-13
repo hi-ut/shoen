@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "朱筆"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "label": "粉河寺領西堺",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=6502,6637,349,877",
+    "objectID": "56f7f864d47c284fb1dc0d5b04a91078",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/6502,6637,349,877/200,/0/default.jpg",
+    "図": [
+        "紀伊国井上本庄絵図"
+    ]
+}

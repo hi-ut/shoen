@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "河"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "label": "清瀧河",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=13431,14296,1159,2057",
+    "objectID": "f2337d58d30ef875eb3d7bb3f2f6ccbd",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/13431,14296,1159,2057/200,/0/default.jpg",
+    "図": [
+        "神護寺領高雄山絵図"
+    ]
+}

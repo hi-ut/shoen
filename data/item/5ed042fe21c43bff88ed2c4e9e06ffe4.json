@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "label": "南口膳夫寺北口",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=10880,5401,266,1505",
+    "objectID": "5ed042fe21c43bff88ed2c4e9e06ffe4",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/10880,5401,266,1505/200,/0/default.jpg",
+    "図": [
+        "膳夫庄差図"
+    ]
+}

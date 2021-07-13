@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-55.json",
+    "label": "ミチ",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2093,4790,225,448",
+    "objectID": "be4c12f257da0e82137995b616ec8c03",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/2093,4790,225,448/200,/0/default.jpg",
+    "図": [
+        "箸喰庄差図"
+    ]
+}

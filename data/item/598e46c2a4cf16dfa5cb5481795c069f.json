@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "山"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "label": "御城山",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1615,13005,1005,437",
+    "objectID": "598e46c2a4cf16dfa5cb5481795c069f",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1615,13005,1005,437/200,/0/default.jpg",
+    "図": [
+        "揖保川筋堰図"
+    ]
+}

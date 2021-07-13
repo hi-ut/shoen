@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "label": "八条領　一町",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=7883,8345,960,759",
+    "objectID": "504e954d1f13eb68b29d56f1632ed061",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/7883,8345,960,759/200,/0/default.jpg",
+    "図": [
+        "膳夫庄差図"
+    ]
+}

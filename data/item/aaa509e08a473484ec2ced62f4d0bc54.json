@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "花押"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "label": "（花押影・北條長時） （花押影・北條政村）",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=892,4669,277,265",
+    "objectID": "aaa509e08a473484ec2ced62f4d0bc54",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/892,4669,277,265/200,/0/default.jpg",
+    "図": [
+        "伯耆国河村郡東郷庄之図"
+    ]
+}

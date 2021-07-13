@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "label": "稲荷",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=11233,7619,274,549",
+    "objectID": "84bbd0b1631c169ccccfa8fe523694ef",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/11233,7619,274,549/200,/0/default.jpg",
+    "図": [
+        "長門二宮絵図2"
+    ]
+}

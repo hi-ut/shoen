@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "鐘楼"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "label": "鐘楼",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6551,9841,687,839",
+    "objectID": "7cda31a0f0c04758b402a20dcf5908c9",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/6551,9841,687,839/200,/0/default.jpg",
+    "図": [
+        "長門二宮絵図2"
+    ]
+}

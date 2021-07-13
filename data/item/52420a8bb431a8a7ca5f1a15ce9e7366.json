@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "方位"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "label": "南",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4153,9632,545,493",
+    "objectID": "52420a8bb431a8a7ca5f1a15ce9e7366",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/4153,9632,545,493/200,/0/default.jpg",
+    "図": [
+        "紀伊国井上本庄絵図"
+    ]
+}

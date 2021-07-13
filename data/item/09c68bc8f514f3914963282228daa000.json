@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "付箋"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "label": "（付箋）「秋篠方申云、此池者秋篠寺寺僧良印蓮覚房為西大寺執行之時、両方合力池也、而一向為西大寺進止之由、被論申之條、無其謂之次第ト申之」",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=15797,6608,616,2721",
+    "objectID": "09c68bc8f514f3914963282228daa000",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/15797,6608,616,2721/200,/0/default.jpg",
+    "図": [
+        "大和国西大寺与秋篠寺堺相論絵図"
+    ]
+}

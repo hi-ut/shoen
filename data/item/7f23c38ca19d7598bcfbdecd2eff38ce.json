@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-172.json",
+    "label": "東西壱町\n自小谷于\n至大井河流",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=20350,4530,1052,2301",
+    "objectID": "7f23c38ca19d7598bcfbdecd2eff38ce",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/20350,4530,1052,2301/200,/0/default.jpg",
+    "図": [
+        "舎那院御領之絵図"
+    ]
+}

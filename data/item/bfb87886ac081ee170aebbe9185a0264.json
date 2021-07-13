@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "方位"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "label": "北",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=26739,6851,218,487",
+    "objectID": "bfb87886ac081ee170aebbe9185a0264",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/26739,6851,218,487/200,/0/default.jpg",
+    "図": [
+        "大和国西大寺与秋篠寺堺相論絵図"
+    ]
+}

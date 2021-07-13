@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "村"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "label": "大道村",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3682,16071,474,492",
+    "objectID": "0ab0d691a725aadf092aa0ab77fb74f9",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/3682,16071,474,492/200,/0/default.jpg",
+    "図": [
+        "揖保川筋堰図"
+    ]
+}

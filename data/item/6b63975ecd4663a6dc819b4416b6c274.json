@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "宮"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "label": "平岡八幡宮",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=18763,21279,2179,3866",
+    "objectID": "6b63975ecd4663a6dc819b4416b6c274",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/18763,21279,2179,3866/200,/0/default.jpg",
+    "図": [
+        "神護寺領高雄山絵図"
+    ]
+}
