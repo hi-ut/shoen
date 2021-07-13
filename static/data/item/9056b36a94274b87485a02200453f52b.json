@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-67.json",
+    "description": [
+        ""
+    ],
     "label": "伝燈庵",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=20044,7432,807,399",
     "objectID": "9056b36a94274b87485a02200453f52b",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/20044,7432,807,399/200,/0/default.jpg",
     "図": [
         "明月院古図"
+    ],
+    "架番号": [
+        "保-67"
+    ],
+    "表記": [
+        "伝燈庵"
     ]
 }

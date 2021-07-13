@@ -4,12 +4,27 @@
         "薗"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-313-1.json",
+    "description": [
+        ""
+    ],
     "label": "下司薗",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/canvas/p1#xywh=6318,6089,213,495",
     "objectID": "a10a8d0fe1798fec8941d39e96590a37",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/6318,6089,213,495/200,/0/default.jpg",
     "図": [
         "薩摩国日置北郷下地中分絵図(表)"
+    ],
+    "架番号": [
+        "保-313-1"
+    ],
+    "表記": [
+        "下司薗"
     ]
 }

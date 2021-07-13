@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        ""
+    ],
     "label": "十二条八里十一坪 惣門&lt;床カ垣内&gt; ○庄司屋敷 ○増教屋敷 七反切　 ○善学　一斗四升 ○戒真　佃　一石四斗 平太郎　二斗五升",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5434,4103,2319,2361",
     "objectID": "81a8bf095bea0148e1917d0a071c87b5",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/5434,4103,2319,2361/200,/0/default.jpg",
     "図": [
         "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
+        "十二条八里十一坪 惣門&lt;床カ垣内&gt; ○庄司屋敷 ○増教屋敷 七反切　 ○善学　一斗四升 ○戒真　佃　一石四斗 平太郎　二斗五升"
     ]
 }

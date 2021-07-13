@@ -4,12 +4,27 @@
         "橋"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "現壇具橋に比定される。"
+    ],
     "label": "□河橋",
+    "latitude": [
+        "33.996299"
+    ],
+    "longitude": [
+        "130.9883"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=13826,12671,415,699",
     "objectID": "90e92e0103cba1df9ac9192cda0b317f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/13826,12671,415,699/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "□河橋"
     ]
 }

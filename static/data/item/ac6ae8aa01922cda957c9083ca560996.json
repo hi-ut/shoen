@@ -4,12 +4,27 @@
         "山"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "description": [
+        ""
+    ],
     "label": "水田山",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9829,21052,812,459",
     "objectID": "ac6ae8aa01922cda957c9083ca560996",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/9829,21052,812,459/200,/0/default.jpg",
     "図": [
         "足守庄図"
+    ],
+    "架番号": [
+        "保-38"
+    ],
+    "表記": [
+        "水田山"
     ]
 }

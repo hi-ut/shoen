@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-57.json",
+    "description": [
+        ""
+    ],
     "label": "廿四　カワタ",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/canvas/p1#xywh=4288,4856,500,430",
     "objectID": "2c0ef20a24b465f115b16bd8c85c6b6a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/57/00000001.tif/4288,4856,500,430/200,/0/default.jpg",
     "図": [
         "百済庄屋敷田畠差図"
+    ],
+    "架番号": [
+        "保-57"
+    ],
+    "表記": [
+        "廿四　カワタ"
     ]
 }

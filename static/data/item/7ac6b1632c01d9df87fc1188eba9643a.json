@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "description": [
+        ""
+    ],
     "label": "鎮守",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=16323,10325,1363,1569",
     "objectID": "7ac6b1632c01d9df87fc1188eba9643a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/16323,10325,1363,1569/200,/0/default.jpg",
     "図": [
         "神護寺領高雄山絵図"
+    ],
+    "架番号": [
+        "保-162"
+    ],
+    "表記": [
+        "鎮守"
     ]
 }

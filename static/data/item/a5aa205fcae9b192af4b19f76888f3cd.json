@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-67.json",
+    "description": [
+        "天源院。建長寺内。一三世南浦紹明塔所。"
+    ],
     "label": "天源庵",
+    "latitude": [
+        "35.332994"
+    ],
+    "longitude": [
+        "139.55502"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=18888,3081,836,410",
     "objectID": "a5aa205fcae9b192af4b19f76888f3cd",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/18888,3081,836,410/200,/0/default.jpg",
     "図": [
         "明月院古図"
+    ],
+    "架番号": [
+        "保-67"
+    ],
+    "表記": [
+        "天源庵"
     ]
 }

@@ -4,12 +4,27 @@
         "堂"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-119.json",
+    "description": [
+        ""
+    ],
     "label": "護摩堂",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/canvas/p1#xywh=3989,2924,1681,1374",
     "objectID": "737432f2c53b4529fd395d77b40458b3",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/3989,2924,1681,1374/200,/0/default.jpg",
     "図": [
         "称名寺古図"
+    ],
+    "架番号": [
+        "保-119"
+    ],
+    "表記": [
+        "護摩堂"
     ]
 }

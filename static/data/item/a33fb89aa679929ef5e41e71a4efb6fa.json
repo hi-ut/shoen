@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "description": [
+        "琵琶湖岸の大浦と大浦川流域などを庄域とし、菅浦との相論で知られる。平安時代に園城寺円満院門跡領の庄園として立券、鎌倉末までには上庄・下庄に分れ、上庄は梶井門跡領、下庄はのち日野家領となっている。"
+    ],
     "label": "大浦下庄",
+    "latitude": [
+        "35.488305"
+    ],
+    "longitude": [
+        "136.123556"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=5373,1373,428,1104",
     "objectID": "a33fb89aa679929ef5e41e71a4efb6fa",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/5373,1373,428,1104/200,/0/default.jpg",
     "図": [
         "菅浦与大浦下庄堺絵図"
+    ],
+    "架番号": [
+        "保-293"
+    ],
+    "表記": [
+        "大浦下庄"
     ]
 }

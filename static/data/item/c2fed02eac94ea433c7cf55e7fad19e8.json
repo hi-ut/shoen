@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-2.json",
+    "description": [
+        "現岩手県一関市の西郊、磐井川上流北岸の東流する本寺川流域一帯にあった。厳美町下真坂・要害・沖要害・駒形・中川・本寺などを範囲とする地域に比定される。中世には中尊寺経蔵領で、四至をもち庄園的性格を有したと考えられる。"
+    ],
     "label": "骨寺村",
+    "latitude": [
+        "38.973406"
+    ],
+    "longitude": [
+        "140.95034"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/9ea15b66a183bcd119e3a3776328d4a2/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/9ea15b66a183bcd119e3a3776328d4a2/canvas/p1#xywh=131,6580,562,3623",
     "objectID": "c2fed02eac94ea433c7cf55e7fad19e8",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-2/00000001.tif/131,6580,562,3623/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（詳細図）　[裏]"
+    ],
+    "架番号": [
+        "以-341-2"
+    ],
+    "表記": [
+        "「御経蔵所領骨寺村差図」"
     ]
 }

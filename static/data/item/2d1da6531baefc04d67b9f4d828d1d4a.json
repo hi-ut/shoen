@@ -4,12 +4,27 @@
         "里"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "新家村。東は千音寺村に接し、西を福田川が流れる。現愛知県名古屋市中川区新家。"
+    ],
     "label": "新家里",
+    "latitude": [
+        "35.155481"
+    ],
+    "longitude": [
+        "136.803142"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=5275,7196,1307,879",
     "objectID": "2d1da6531baefc04d67b9f4d828d1d4a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/5275,7196,1307,879/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "新家里"
     ]
 }

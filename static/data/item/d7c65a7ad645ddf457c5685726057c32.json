@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-1.json",
+    "description": [
+        "北側の山の中腹にある岩屋。現岩手県一関市厳美町下真坂付近。"
+    ],
     "label": "不動岩屋",
+    "latitude": [
+        "38.975025"
+    ],
+    "longitude": [
+        "140.967491"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/fe8a1ee96488d525108a960d38fb1e75/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=5743,11643,497,284",
     "objectID": "d7c65a7ad645ddf457c5685726057c32",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/5743,11643,497,284/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（詳細図）　[表]"
+    ],
+    "架番号": [
+        "以-341-1"
+    ],
+    "表記": [
+        "不動岩屋"
     ]
 }

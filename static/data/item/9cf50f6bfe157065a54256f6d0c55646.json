@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "現愛知県名古屋市中川区富田町大字榎津東乗江・西乗江付近と思われる。"
+    ],
     "label": "苔江",
+    "latitude": [
+        "35.13762"
+    ],
+    "longitude": [
+        "136.820317"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=9578,12324,836,729",
     "objectID": "9cf50f6bfe157065a54256f6d0c55646",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/9578,12324,836,729/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "苔江"
     ]
 }

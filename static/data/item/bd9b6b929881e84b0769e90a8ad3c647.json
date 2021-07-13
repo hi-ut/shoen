@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-313-1.json",
+    "description": [
+        ""
+    ],
     "label": "朱点者、両方之堺注也、但此絵図者、堺一段也、自余両方不及委細也",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/canvas/p1#xywh=679,12682,2126,1010",
     "objectID": "bd9b6b929881e84b0769e90a8ad3c647",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/679,12682,2126,1010/200,/0/default.jpg",
     "図": [
         "薩摩国日置北郷下地中分絵図(表)"
+    ],
+    "架番号": [
+        "保-313-1"
+    ],
+    "表記": [
+        "朱点者、両方之堺注也、但此絵図者、堺一段也、自余両方不及委細也"
     ]
 }

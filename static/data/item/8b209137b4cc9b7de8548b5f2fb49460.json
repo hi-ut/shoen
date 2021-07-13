@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        "興福寺領荘園とされる。一一条・一二条の七里・八里に展開しているため、同庄の所在は現奈良県天理市乙木町に比定される。"
+    ],
     "label": "乙木庄",
+    "latitude": [
+        "34.581402"
+    ],
+    "longitude": [
+        "135.847531"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=8203,1551,3161,759",
     "objectID": "8b209137b4cc9b7de8548b5f2fb49460",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/8203,1551,3161,759/200,/0/default.jpg",
     "図": [
+        "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
         "乙木庄条里坪付図"
     ]
 }

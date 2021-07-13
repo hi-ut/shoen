@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "description": [
+        ""
+    ],
     "label": "雲心寺",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=3067,5419,1094,799",
     "objectID": "fefc28df860f201fbc3f6565dad107b2",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/3067,5419,1094,799/200,/0/default.jpg",
     "図": [
         "神護寺領高雄山絵図"
+    ],
+    "架番号": [
+        "保-162"
+    ],
+    "表記": [
+        "雲心寺"
     ]
 }

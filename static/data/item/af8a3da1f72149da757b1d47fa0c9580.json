@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-39.json",
+    "description": [
+        "愛宕山。愛宕神社は現京都府京都市右京区嵯峨愛宕町にあり、愛宕山の最高峰朝日峰の山頂近くに鎮座。近代以前は愛宕山の別称白雲山にちなみ白雲寺とも愛宕権現ともよばれた神仏習合の社。"
+    ],
     "label": "愛宕嵩御在所",
+    "latitude": [
+        "35.06006"
+    ],
+    "longitude": [
+        "135.6344"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1#xywh=5905,12920,658,1067",
     "objectID": "af8a3da1f72149da757b1d47fa0c9580",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/5905,12920,658,1067/200,/0/default.jpg",
     "図": [
         "主殿寮御領小野山与神護寺領堺相論指図"
+    ],
+    "架番号": [
+        "保-39"
+    ],
+    "表記": [
+        "愛宕嵩御在所"
     ]
 }

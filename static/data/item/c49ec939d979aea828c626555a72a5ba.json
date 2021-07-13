@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "description": [
+        "葛籠尾崎。"
+    ],
     "label": "津吹羅尾崎",
+    "latitude": [
+        "35.442168"
+    ],
+    "longitude": [
+        "136.148061"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=7183,7191,416,524",
     "objectID": "c49ec939d979aea828c626555a72a5ba",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/7183,7191,416,524/200,/0/default.jpg",
     "図": [
         "菅浦与大浦下庄堺絵図"
+    ],
+    "架番号": [
+        "保-293"
+    ],
+    "表記": [
+        "□□〔津吹〕羅尾崎"
     ]
 }

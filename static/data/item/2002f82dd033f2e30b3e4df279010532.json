@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-68.json",
+    "description": [
+        "一〇世東明慧日塔所。当庵は慧日自身が営んだ退居寮。暦応三年慧日没後、その門派である曹洞宗宏智派の拠点となった。"
+    ],
     "label": "白雲庵",
+    "latitude": [
+        "35.529362"
+    ],
+    "longitude": [
+        "139.625632"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=2971,11854,602,785",
     "objectID": "2002f82dd033f2e30b3e4df279010532",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/2971,11854,602,785/200,/0/default.jpg",
     "図": [
         "円覚寺境内古図"
+    ],
+    "架番号": [
+        "保-68"
+    ],
+    "表記": [
+        "白雲庵"
     ]
 }

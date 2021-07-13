@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県姫路市余部区上余部。下余部村の北西に位置し、揖保川下流左岸の平地に立地する。揖西郡に属す。"
+    ],
     "label": "上余部",
+    "latitude": [
+        "34.806083"
+    ],
+    "longitude": [
+        "134.573775"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7246,23977,681,639",
     "objectID": "b4445d56e73346697fb1b3d08a21433b",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7246,23977,681,639/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "上余部"
     ]
 }

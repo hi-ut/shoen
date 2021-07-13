@@ -4,12 +4,27 @@
         "朱筆"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "description": [
+        "井上新庄。志野庄ともいう。井上本庄の西に位置し、同庄より分離した荘園。"
+    ],
     "label": "新庄",
+    "latitude": [
+        "34.284468"
+    ],
+    "longitude": [
+        "135.3853"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=820,4755,389,599",
     "objectID": "9e1aaae178197786ca934b21417c73a3",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/820,4755,389,599/200,/0/default.jpg",
     "図": [
         "紀伊国井上本庄絵図"
+    ],
+    "架番号": [
+        "以-335"
+    ],
+    "表記": [
+        "新庄"
     ]
 }

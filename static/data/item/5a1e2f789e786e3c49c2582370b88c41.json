@@ -4,12 +4,27 @@
         "在家"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "description": [
+        "現和歌山県紀の川市長田中にあたる地域とされる。"
+    ],
     "label": "荒間在家",
+    "latitude": [
+        "34.27551"
+    ],
+    "longitude": [
+        "135.390585"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4267,5292,692,519",
     "objectID": "5a1e2f789e786e3c49c2582370b88c41",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/4267,5292,692,519/200,/0/default.jpg",
     "図": [
         "紀伊国井上本庄絵図"
+    ],
+    "架番号": [
+        "以-335"
+    ],
+    "表記": [
+        "荒間在家"
     ]
 }

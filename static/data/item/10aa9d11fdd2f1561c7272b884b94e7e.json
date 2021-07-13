@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "description": [
+        "鞆淵庄。竜門山の東南、飯盛山南側の山間部、貴志川の支流真国川（鞆淵川）沿いにあった広域な荘園。"
+    ],
     "label": "鞆渕御薗",
+    "latitude": [
+        "34.261957"
+    ],
+    "longitude": [
+        "135.413156"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=2622,526,1980,1102",
     "objectID": "10aa9d11fdd2f1561c7272b884b94e7e",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/2622,526,1980,1102/200,/0/default.jpg",
     "図": [
         "紀伊国神野真国御庄絵図　康治二年"
+    ],
+    "架番号": [
+        "保-66"
+    ],
+    "表記": [
+        "八幡宮寺領鞆渕御薗"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-68.json",
+    "description": [
+        ""
+    ],
     "label": "中殿跡",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=10594,15534,1011,806",
     "objectID": "d1a764220b1de7ae034beebb27b37b20",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/10594,15534,1011,806/200,/0/default.jpg",
     "図": [
         "円覚寺境内古図"
+    ],
+    "架番号": [
+        "保-68"
+    ],
+    "表記": [
+        "中殿跡"
     ]
 }

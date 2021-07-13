@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-119.json",
+    "description": [
+        "現神奈川県横浜市金沢区金沢町。金沢町東端、金沢街区を南方眼下に見はるかし、浅間山を背にする。金沢山と号し、真言律宗、別格本山。本尊木造弥勒菩薩立像。かつては奈良西大寺末。"
+    ],
     "label": "称名寺",
+    "latitude": [
+        "35.344236"
+    ],
+    "longitude": [
+        "139.63036"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/canvas/p1#xywh=1571,8977,1566,2474",
     "objectID": "45bc8f60c29325a0eac48d06210d39b4",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/1571,8977,1566,2474/200,/0/default.jpg",
     "図": [
         "称名寺古図"
+    ],
+    "架番号": [
+        "保-119"
+    ],
+    "表記": [
+        "称名寺"
     ]
 }

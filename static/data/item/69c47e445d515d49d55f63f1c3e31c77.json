@@ -4,12 +4,27 @@
         "堂"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "description": [
+        ""
+    ],
     "label": "本堂",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=18818,9416,719,1389",
     "objectID": "69c47e445d515d49d55f63f1c3e31c77",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/18818,9416,719,1389/200,/0/default.jpg",
     "図": [
         "神護寺領高雄山絵図"
+    ],
+    "架番号": [
+        "保-162"
+    ],
+    "表記": [
+        "本堂"
     ]
 }

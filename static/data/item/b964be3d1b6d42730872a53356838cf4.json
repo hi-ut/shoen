@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市新宮町北村。揖保川の右岸、觜崎村の北に位置する。揖東郡に属し、越部北村ともいわれた。"
+    ],
     "label": "北村",
+    "latitude": [
+        "34.898589"
+    ],
+    "longitude": [
+        "134.551699"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5092,4867,400,453",
     "objectID": "b964be3d1b6d42730872a53356838cf4",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5092,4867,400,453/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "北村"
     ]
 }

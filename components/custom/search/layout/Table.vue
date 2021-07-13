@@ -7,7 +7,7 @@
               <th></th>
               <th class="text-left">{{ $t('地名') }}</th>
               <th class="text-left">{{ $t('legend') }}</th>
-              
+              <th class="text-left">{{ $t('description') }}</th>
               <th class="text-left">{{ $t('拡大図') }}</th>
               <th></th>
             </tr>
@@ -66,7 +66,13 @@
 
                 -->
 
-                {{item.category}}
+                {{ $utils.formatArrayValue(item.category)}}
+
+                    </td>
+
+                    <td>
+
+                {{ $utils.formatArrayValue(item.description)}}
 
                     </td>
               
@@ -79,9 +85,12 @@
                 -->
                 <a
                   :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${item.curation}&xywh=${item.member.split('#xywh=')[1]}&mode=annotation&lang=ja`"
-                  >{{item.図}}</a
+                  >{{ $utils.formatArrayValue(item.図) }}</a
                 >
               </td>
+
+              
+
               <td v-if="false">
                 TODO
                 <template v-if="false">

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "現山口県下関市中之町・唐戸町・岬之町の各全域、およびみもすそ川町・壇之浦町・阿弥陀寺町・宮田町一丁目・赤間町・田中町・南部町・観音崎町・入江町・細江町一丁目の各一部。北部は小高い丘陵地が東西に連なり、南東側は関門海峡に面する。北は赤間関後地、西は長崎村・豊前田と接する。"
+    ],
     "label": "赤間関",
+    "latitude": [
+        "33.957945"
+    ],
+    "longitude": [
+        "130.945511"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=12087,13655,319,539",
     "objectID": "ad56375f99ea9f29e99f780da251ef4c",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/12087,13655,319,539/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "赤間関"
     ]
 }

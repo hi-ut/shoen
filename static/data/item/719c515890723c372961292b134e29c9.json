@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-68.json",
+    "description": [
+        ""
+    ],
     "label": "新寄進",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=11312,14317,903,322",
     "objectID": "719c515890723c372961292b134e29c9",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/11312,14317,903,322/200,/0/default.jpg",
     "図": [
         "円覚寺境内古図"
+    ],
+    "架番号": [
+        "保-68"
+    ],
+    "表記": [
+        "新寄進"
     ]
 }

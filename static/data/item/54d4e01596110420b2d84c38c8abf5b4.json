@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "description": [
+        "現和歌山県海草郡紀美野町神野市場付近と考えられる。"
+    ],
     "label": "粟田村",
+    "latitude": [
+        "34.147415"
+    ],
+    "longitude": [
+        "135.355165"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8360,8721,524,513",
     "objectID": "54d4e01596110420b2d84c38c8abf5b4",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/8360,8721,524,513/200,/0/default.jpg",
     "図": [
         "紀伊国神野真国御庄絵図　康治二年"
+    ],
+    "架番号": [
+        "保-66"
+    ],
+    "表記": [
+        "粟田村"
     ]
 }

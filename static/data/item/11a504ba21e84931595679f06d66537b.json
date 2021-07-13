@@ -4,12 +4,27 @@
         "松"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "日頼寺の北の峰の上にある仲哀天皇殯斂地を伝えるものに比定される。"
+    ],
     "label": "皇陵松",
+    "latitude": [
+        "33.994391"
+    ],
+    "longitude": [
+        "130.987179"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=10032,13313,392,873",
     "objectID": "11a504ba21e84931595679f06d66537b",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/10032,13313,392,873/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "□□□〔仲哀天〕皇陵松"
     ]
 }

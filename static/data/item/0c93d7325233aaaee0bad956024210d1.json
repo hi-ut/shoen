@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        ""
+    ],
     "label": "十二条八里十坪 堂坪 　他領 　（合点）後平太屋敷 　 勝蓮　預所名屋敷 （合点）後平三屋敷 ○善学屋敷　一反　公事田分 ○三反切　一升",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7812,4064,2357,2361",
     "objectID": "0c93d7325233aaaee0bad956024210d1",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/7812,4064,2357,2361/200,/0/default.jpg",
     "図": [
         "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
+        "十二条八里十坪 堂坪 　他領 　（合点）後平太屋敷 　 勝蓮　預所名屋敷 （合点）後平三屋敷 ○善学屋敷　一反　公事田分 ○三反切　一升"
     ]
 }

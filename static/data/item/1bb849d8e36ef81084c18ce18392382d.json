@@ -4,12 +4,27 @@
         "榜示"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "description": [
+        "古義真言宗の別格本山で真言宗御室派に属したが、現在は単立。正式には栂尾山高山寺という。また日出先照高山之寺と称する。"
+    ],
     "label": "高山寺",
+    "latitude": [
+        "35.060119"
+    ],
+    "longitude": [
+        "135.678573"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=22085,6356,805,1528",
     "objectID": "1bb849d8e36ef81084c18ce18392382d",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/22085,6356,805,1528/200,/0/default.jpg",
     "図": [
         "神護寺領高雄山絵図"
+    ],
+    "架番号": [
+        "保-162"
+    ],
+    "表記": [
+        "高山寺丑寅牓示"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県姫路市網干区坂上。坂上出屋敷村の南に位置し、揖東郡に属する。東は宮内村。福井庄のうち。"
+    ],
     "label": "坂上",
+    "latitude": [
+        "34.798418"
+    ],
+    "longitude": [
+        "134.585913"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9366,23695,516,600",
     "objectID": "8d19ba2b0a7b4147104e62493f776b9f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/9366,23695,516,600/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "坂上"
     ]
 }

@@ -4,12 +4,27 @@
         "河"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "description": [
+        "清滝川。小野郷村（現北区）の桟敷ヶ嶽を水源に、中川・高雄を経て愛宕山の東麓を南流し、桂川に注ぐ約二〇キロメートルの曲折奇岩の多い川で、中流に栂尾・槇尾・高雄の三尾がある。"
+    ],
     "label": "清瀧河",
+    "latitude": [
+        "35.056695"
+    ],
+    "longitude": [
+        "135.674661"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=13431,14296,1159,2057",
     "objectID": "f2337d58d30ef875eb3d7bb3f2f6ccbd",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/13431,14296,1159,2057/200,/0/default.jpg",
     "図": [
         "神護寺領高雄山絵図"
+    ],
+    "架番号": [
+        "保-162"
+    ],
+    "表記": [
+        "清瀧河"
     ]
 }

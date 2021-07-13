@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市揖保町山下。浦上井を利用する村。大道村の南に位置し、揖西郡に属する。西は揖保川を挟んで野田村、東は揖東郡上沖村。"
+    ],
     "label": "山下村",
+    "latitude": [
+        "34.84117"
+    ],
+    "longitude": [
+        "134.545571"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4130,17133,500,623",
     "objectID": "2b94a783839c85f8428f60f7e82ac5ce",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4130,17133,500,623/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "山下村"
     ]
 }

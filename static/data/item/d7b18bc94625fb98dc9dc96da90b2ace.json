@@ -4,12 +4,27 @@
         "池"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "description": [
+        "現在は水田となっているが、池田という字名であり、古くから半刀池にあたると指摘されている。"
+    ],
     "label": "半刀池",
+    "latitude": [
+        "34.724626"
+    ],
+    "longitude": [
+        "133.809882"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7868,8753,1649,1973",
     "objectID": "d7b18bc94625fb98dc9dc96da90b2ace",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/7868,8753,1649,1973/200,/0/default.jpg",
     "図": [
         "足守庄図"
+    ],
+    "架番号": [
+        "保-38"
+    ],
+    "表記": [
+        "半刀池"
     ]
 }

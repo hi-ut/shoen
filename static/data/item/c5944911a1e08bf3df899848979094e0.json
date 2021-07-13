@@ -4,12 +4,27 @@
         "宮"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-49.json",
+    "description": [
+        "現宝来山神社。和歌山県伊都郡かつらぎ町萩原。萩原の東にある。旧郷社。絵図には「八幡宮」とその神宮寺とみられる「堂」が描かれており、前者が宝来山神社、後者が宝来山延命院神宮寺（現神願寺）と推察される。"
+    ],
     "label": "八幡宮",
+    "latitude": [
+        "34.291669"
+    ],
+    "longitude": [
+        "135.468828"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=14323,5195,1890,1418",
     "objectID": "c5944911a1e08bf3df899848979094e0",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif/14323,5195,1890,1418/200,/0/default.jpg",
     "図": [
         "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+    ],
+    "架番号": [
+        "保-49"
+    ],
+    "表記": [
+        "八幡宮"
     ]
 }

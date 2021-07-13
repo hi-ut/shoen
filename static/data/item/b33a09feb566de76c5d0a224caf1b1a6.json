@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "もと功山寺の北東に鎮座し、祭神は大己貴命をはじめ天神地祇。忌宮神社に合祀され、現在は忌宮神社境外摂社・守宮司神社の境内内にある。昭和40年代までは惣社町４番地の一隅にあった。"
+    ],
     "label": "惣社",
+    "latitude": [
+        "33.996516"
+    ],
+    "longitude": [
+        "130.986432"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=2046,13296,1471,1062",
     "objectID": "b33a09feb566de76c5d0a224caf1b1a6",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/2046,13296,1471,1062/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "惣社"
     ]
 }

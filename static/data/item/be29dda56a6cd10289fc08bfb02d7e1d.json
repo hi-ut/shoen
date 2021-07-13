@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県姫路市余部区上川原。上余部村の北西に位置し、揖保川と林田川の合流点左岸に立地する。揖西郡に属する。揖保川と林田川の合流点を改修し、中島村側に拡幅された新田に、同村の住民が出村を造成したのが村の始まりという。"
+    ],
     "label": "上川原",
+    "latitude": [
+        "34.807603"
+    ],
+    "longitude": [
+        "134.560498"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6294,23735,609,499",
     "objectID": "be29dda56a6cd10289fc08bfb02d7e1d",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6294,23735,609,499/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "上川原"
     ]
 }

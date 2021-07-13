@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県姫路市網干区津市場。坂上村の西に位置し、村内を宮内川が東流する。揖東郡に属し、西は揖西郡下余部村。姫路城下から室津へ通ずる道が通る。"
+    ],
     "label": "津市場",
+    "latitude": [
+        "34.797365"
+    ],
+    "longitude": [
+        "134.584522"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8927,23981,432,583",
     "objectID": "4ecee39f0bc7babffd546aae1800d739",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8927,23981,432,583/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "津市場"
     ]
 }

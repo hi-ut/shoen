@@ -4,12 +4,27 @@
         "付箋"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "description": [
+        ""
+    ],
     "label": "（付箋）「西大寺方申云、以京内一條大路、当寺之最中、東面、此ハ□通、 為秋篠寺与西大寺堺之由、構申之條、以外虚誕也、当寺内者、自一條大路北江壱町也、仍舊築地于今現在之由、申之」",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=8853,9961,3040,955",
     "objectID": "a90a1f682cbf43ce9f27142d280b7ab1",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/8853,9961,3040,955/200,/0/default.jpg",
     "図": [
         "大和国西大寺与秋篠寺堺相論絵図"
+    ],
+    "架番号": [
+        "仁-126"
+    ],
+    "表記": [
+        "（付箋）「西大寺方申云、以京内一條大路、当寺之最中、東面、此ハ□通、 為秋篠寺与西大寺堺之由、構申之條、以外虚誕也、当寺内者、自一條大路北江壱町也、仍舊築地于今現在之由、申之」"
     ]
 }

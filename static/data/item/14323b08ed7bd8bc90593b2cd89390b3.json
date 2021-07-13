@@ -4,12 +4,27 @@
         "裏書"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "description": [
+        "現京都府京都市右京区梅ヶ畑高雄町。清滝川の北西にそびえる高雄山の山腹に位置する。高雄山と号し、高野山真言宗別格本山。本尊薬師如来。神護国祚真言寺。"
+    ],
     "label": "神護寺",
+    "latitude": [
+        "35.05502"
+    ],
+    "longitude": [
+        "135.670866"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=7579,1287,7401,1675",
     "objectID": "14323b08ed7bd8bc90593b2cd89390b3",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/7579,1287,7401,1675/200,/0/default.jpg",
     "図": [
         "神護寺領高雄山絵図"
+    ],
+    "架番号": [
+        "保-162"
+    ],
+    "表記": [
+        "神護寺領高雄山絵図〈閏正月十三日〉　官使右弁官史生従七位上中原朝臣（花押）"
     ]
 }

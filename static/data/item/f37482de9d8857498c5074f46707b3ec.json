@@ -4,12 +4,27 @@
         "花押"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-68.json",
+    "description": [
+        ""
+    ],
     "label": "花押・上杉重能",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=1899,9665,731,935",
     "objectID": "f37482de9d8857498c5074f46707b3ec",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/1899,9665,731,935/200,/0/default.jpg",
     "図": [
         "円覚寺境内古図"
+    ],
+    "架番号": [
+        "保-68"
+    ],
+    "表記": [
+        "花押・上杉重能"
     ]
 }

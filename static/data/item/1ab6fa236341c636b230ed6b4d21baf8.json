@@ -4,12 +4,27 @@
         "裏書"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-313-1.json",
+    "description": [
+        ""
+    ],
     "label": "日置北郷",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/canvas/p1#xywh=5555,14923,4770,1188",
     "objectID": "1ab6fa236341c636b230ed6b4d21baf8",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/5555,14923,4770,1188/200,/0/default.jpg",
     "図": [
         "薩摩国日置北郷下地中分絵図(表)"
+    ],
+    "架番号": [
+        "保-313-1"
+    ],
+    "表記": [
+        "(裏書） 1「伊作庄内日置北郷堺絵図」 2「雑掌左衛門尉憲俊（花押）」 3「地頭代沙弥道慶（花押） 雑掌左衛門尉憲俊（花押） 地頭代沙弥道慶（花押）」"
     ]
 }

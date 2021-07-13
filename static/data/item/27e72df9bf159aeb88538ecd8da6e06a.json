@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "揖保川の左岸、現兵庫県姫路市南西部の勝原区・大津区・網干区と太子町糸井を含む一帯に比定され、ほぼ中央部を大津茂川が南流する。一二世紀末以降は山城神護寺領の庄園で、鎌倉時代には東保・西保に分れ、それぞれに地頭が置かれた。"
+    ],
     "label": "福井庄",
+    "latitude": [
+        "34.805542"
+    ],
+    "longitude": [
+        "134.599256"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9206,21968,491,693",
     "objectID": "27e72df9bf159aeb88538ecd8da6e06a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/9206,21968,491,693/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "福井庄"
     ]
 }

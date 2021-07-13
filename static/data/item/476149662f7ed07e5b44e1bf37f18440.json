@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "長江村。現鳥取県東伯郡湯梨浜町長江。門田村の北、東郷池の西方に位置する。大平山北麓にあたる。"
+    ],
     "label": "長江",
+    "latitude": [
+        "35.47232"
+    ],
+    "longitude": [
+        "133.868518"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=4177,2550,201,186",
     "objectID": "476149662f7ed07e5b44e1bf37f18440",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/4177,2550,201,186/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "長江"
     ]
 }

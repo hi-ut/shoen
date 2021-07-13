@@ -4,12 +4,27 @@
         "領家"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-313-1.json",
+    "description": [
+        ""
+    ],
     "label": "領家方",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/canvas/p1#xywh=5367,644,1024,718",
     "objectID": "fb7c3ba6b458df999a47aa493c03122b",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/5367,644,1024,718/200,/0/default.jpg",
     "図": [
         "薩摩国日置北郷下地中分絵図(表)"
+    ],
+    "架番号": [
+        "保-313-1"
+    ],
+    "表記": [
+        "領家方"
     ]
 }

@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市揖保川町半田。揖保川右岸に位置し、村の中央に半田山がある。大川（揖保川）右岸から取水する半田井の末流に位置した。"
+    ],
     "label": "半田村",
+    "latitude": [
+        "34.850605"
+    ],
+    "longitude": [
+        "134.537777"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=816,17162,394,566",
     "objectID": "7472facc401c2594ac9f0d1ffa7f8e4a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/816,17162,394,566/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "半田村"
     ]
 }

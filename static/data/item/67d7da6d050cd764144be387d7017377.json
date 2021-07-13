@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市揖西町小神・揖西町芦原台。揖西郡に属する。集落は山間の上楽寺と扇状地先端の出屋敷に分れている。南に開ける谷間には古代の揖保郡衙の推定地があり、古代の山陽道が横断していた。"
+    ],
     "label": "小神村",
+    "latitude": [
+        "34.860379"
+    ],
+    "longitude": [
+        "134.533031"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=683,15810,629,417",
     "objectID": "67d7da6d050cd764144be387d7017377",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/683,15810,629,417/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "小神村"
     ]
 }

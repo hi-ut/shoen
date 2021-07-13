@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "description": [
+        ""
+    ],
     "label": "シハ原　一町内　五反半内&lt;二反流失　サタキヨ&gt;　半　郷分　半　キヨトコ ロメン　小　次郎丸　小　サタキヨ名　一反小　神田　半　又神田",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=3634,8398,1194,917",
     "objectID": "d74bea755fc2c3e9bcd9c6530456a4bf",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/3634,8398,1194,917/200,/0/default.jpg",
     "図": [
         "但馬国神戸郷絵図"
+    ],
+    "架番号": [
+        "仁-124"
+    ],
+    "表記": [
+        "シハ原　一町内　五反半内&lt;二反流失　サタキヨ&gt;　半　郷分　半　キヨトコ ロメン　小　次郎丸　小　サタキヨ名　一反小　神田　半　又神田"
     ]
 }

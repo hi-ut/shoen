@@ -4,12 +4,27 @@
         "島"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "現彦島。山口県下関市の南西端に、関門海峡の西口に横たわる島。"
+    ],
     "label": "引嶋",
+    "latitude": [
+        "33.934285"
+    ],
+    "longitude": [
+        "130.90313"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=8640,14207,213,385",
     "objectID": "0bea30f9475380f501d8eec3492538b7",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/8640,14207,213,385/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "引嶋"
     ]
 }

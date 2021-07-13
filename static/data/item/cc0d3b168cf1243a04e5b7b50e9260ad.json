@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "現鳥取県東伯郡湯梨浜町下浅津・上浅津を含む地域にあたり、そのうちの浅津地区は領家方が下浅津に、地頭方が上浅津になったとされる。"
+    ],
     "label": "伯井田",
+    "latitude": [
+        "35.482799"
+    ],
+    "longitude": [
+        "133.878963"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=3499,3275,199,116",
     "objectID": "cc0d3b168cf1243a04e5b7b50e9260ad",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/3499,3275,199,116/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "伯井田　東分"
     ]
 }

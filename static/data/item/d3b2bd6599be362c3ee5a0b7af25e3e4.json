@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-313-1.json",
+    "description": [
+        ""
+    ],
     "label": "吉富内正富田",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/canvas/p1#xywh=3140,6904,1135,443",
     "objectID": "d3b2bd6599be362c3ee5a0b7af25e3e4",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/3140,6904,1135,443/200,/0/default.jpg",
     "図": [
         "薩摩国日置北郷下地中分絵図(表)"
+    ],
+    "架番号": [
+        "保-313-1"
+    ],
+    "表記": [
+        "吉富内正富田"
     ]
 }

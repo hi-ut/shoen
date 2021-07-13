@@ -4,12 +4,27 @@
         "宮"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "現東郷神社。八幡神を祀ったことから後に八幡宮と称し、さらに秀尾神社、東郷神社とし、東郷地域の十二社を合祀した。"
+    ],
     "label": "桂尾宮",
+    "latitude": [
+        "35.459666"
+    ],
+    "longitude": [
+        "133.899048"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=2781,1614,173,209",
     "objectID": "9c5c23a9fd1c6047a6b2293d195f00cf",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/2781,1614,173,209/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "桂尾宮　東分"
     ]
 }

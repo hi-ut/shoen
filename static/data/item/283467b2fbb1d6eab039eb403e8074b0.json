@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "description": [
+        "阿曾郷。古代の賀陽郡阿曾郷の郷名を継いだものか。足守川右岸、血吸川流域の岡山県東阿曾・西阿曾を遺称地とし、一帯に推定される。"
+    ],
     "label": "阿宗郷",
+    "latitude": [
+        "34.711023"
+    ],
+    "longitude": [
+        "133.79715"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1099,355,2019,692",
     "objectID": "283467b2fbb1d6eab039eb403e8074b0",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/1099,355,2019,692/200,/0/default.jpg",
     "図": [
         "足守庄図"
+    ],
+    "架番号": [
+        "保-38"
+    ],
+    "表記": [
+        "阿宗郷堺大横山戌亥牓□（示）"
     ]
 }

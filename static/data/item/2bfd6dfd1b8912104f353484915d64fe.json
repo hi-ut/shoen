@@ -4,12 +4,27 @@
         "花押"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-172.json",
+    "description": [
+        ""
+    ],
     "label": "□〔南〕北 伍段壱杖（以上４文字、朱抹消）　参段壱杖（花押）",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15259,16528,1813,877",
     "objectID": "2bfd6dfd1b8912104f353484915d64fe",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/15259,16528,1813,877/200,/0/default.jpg",
     "図": [
         "舎那院御領之絵図"
+    ],
+    "架番号": [
+        "保-172"
+    ],
+    "表記": [
+        "□〔南〕北 伍段壱杖（以上４文字、朱抹消）　参段壱杖（花押）"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "description": [
+        "日頼寺の北の峰の上にある仲哀天皇殯斂地を伝えるものに比定される。"
+    ],
     "label": "仲哀天皇仮陵",
+    "latitude": [
+        "33.994391"
+    ],
+    "longitude": [
+        "130.987179"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6748,14461,848,829",
     "objectID": "36131058290cf82547b1d91f0fa0c6f2",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/6748,14461,848,829/200,/0/default.jpg",
     "図": [
         "長門二宮絵図2"
+    ],
+    "架番号": [
+        "保-167-2"
+    ],
+    "表記": [
+        "仲哀天皇仮陵"
     ]
 }

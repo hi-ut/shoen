@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "現愛知県名古屋市中川区富田町と海部郡蟹江町・大治町・七宝町辺りに比定される。寛治年間太政官符により四至を定め立荘された荘園で、庄内川下流域に形成された三角州の先端に開かれ、低湿な水田地域と未開の荒野からなり、南辺で海岸線に接していた。"
+    ],
     "label": "富田庄",
+    "latitude": [
+        "35.166163"
+    ],
+    "longitude": [
+        "136.807124"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=8503,4554,245,521",
     "objectID": "6cc51615363fc425e4985b1169e1cf17",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/8503,4554,245,521/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "富田庄"
     ]
 }

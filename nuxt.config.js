@@ -41,6 +41,16 @@ env.detail = [
   {
     label: "分類",
     value: "category"
+  },
+  {
+    label: "表記",
+    value: "表記",
+    type: "text"
+  },
+  {
+    label: "架番号",
+    value: "架番号",
+    type: "text"
   }
 ]
 

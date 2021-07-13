@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市新宮町觜崎。下野田村の東、揖保川の右岸に位置する。揖東郡に属した。当地は揖保川と美作道が交接する要衝の地で、中世には越部下庄の庄域にあったと推測される。大川（揖保川）から南の佐野に至る「はしさきの井」が北村付近で分岐し、当地まで延びている。"
+    ],
     "label": "はしざき",
+    "latitude": [
+        "34.890959"
+    ],
+    "longitude": [
+        "134.551472"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5236,6197,433,809",
     "objectID": "38825f2b1cf6794df70079c1533adf00",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5236,6197,433,809/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "はしざき"
     ]
 }

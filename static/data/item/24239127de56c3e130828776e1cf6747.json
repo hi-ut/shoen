@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "榎津村。西は包里村に接する。現愛知県名古屋市中川区富田町大字榎津。"
+    ],
     "label": "前嶋榎津",
+    "latitude": [
+        "35.135162"
+    ],
+    "longitude": [
+        "136.823509"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=8269,10283,448,941",
     "objectID": "24239127de56c3e130828776e1cf6747",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/8269,10283,448,941/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "前嶋榎津"
     ]
 }

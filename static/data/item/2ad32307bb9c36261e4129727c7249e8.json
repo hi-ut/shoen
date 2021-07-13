@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "上沖村。現兵庫県たつの市誉田町上沖。下沖村の北に位置し、揖東郡に属する。西は揖保川の旧流路を隔てて揖西郡山下村、東は高駄村。岩見井に接して上沖とみえる。"
+    ],
     "label": "上仲",
+    "latitude": [
+        "34.84537"
+    ],
+    "longitude": [
+        "134.551896"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5893,16594,394,622",
     "objectID": "2ad32307bb9c36261e4129727c7249e8",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5893,16594,394,622/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "上仲"
     ]
 }

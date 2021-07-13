@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "description": [
+        ""
+    ],
     "label": "マエタ　一町",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=11217,8321,807,1009",
     "objectID": "bc20e033af68b02c7acbf1c4176e1174",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/11217,8321,807,1009/200,/0/default.jpg",
     "図": [
         "膳夫庄差図"
+    ],
+    "架番号": [
+        "保-56"
+    ],
+    "表記": [
+        "マエタ　一町"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "description": [
+        "早崎の地先約五キロに浮ぶ面積〇・一四平方キロ、周囲約二キロの島。琵琶湖に浮ぶ島。"
+    ],
     "label": "竹生嶋",
+    "latitude": [
+        "35.420456"
+    ],
+    "longitude": [
+        "136.143095"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4954,10336,324,489",
     "objectID": "c062b7597a6c588d4a2dc33ddb87987b",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/4954,10336,324,489/200,/0/default.jpg",
     "図": [
         "菅浦与大浦下庄堺絵図"
+    ],
+    "架番号": [
+        "保-293"
+    ],
+    "表記": [
+        "竹生嶋"
     ]
 }

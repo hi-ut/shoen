@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "古代の河村郡三朝郷の郷名を継ぐ中世の郷で、三徳川（三朝川）とその支流小鹿川の流域一帯に比定される。"
+    ],
     "label": "三朝",
+    "latitude": [
+        "35.410328"
+    ],
+    "longitude": [
+        "133.912501"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=3110,559,67,121",
     "objectID": "8db92ad73c16ed4dcd91824ca67617b6",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/3110,559,67,121/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "三朝"
     ]
 }

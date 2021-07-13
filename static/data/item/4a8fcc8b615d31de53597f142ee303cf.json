@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "江松村。東は新川を越えて下之一色村、西は富永村に接する。現愛知県名古屋市中川区江松付近。"
+    ],
     "label": "江松",
+    "latitude": [
+        "35.123591"
+    ],
+    "longitude": [
+        "136.823407"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=10695,13555,784,966",
     "objectID": "4a8fcc8b615d31de53597f142ee303cf",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/10695,13555,784,966/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "江松"
     ]
 }

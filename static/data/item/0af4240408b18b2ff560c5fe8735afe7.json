@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-2.json",
+    "description": [
+        ""
+    ],
     "label": "\n\n\n\n\n\n\n「骨寺絵図案/寺領□□堺論/具書□」\n\n\n\n\n\n\n",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/9ea15b66a183bcd119e3a3776328d4a2/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/9ea15b66a183bcd119e3a3776328d4a2/canvas/p1#xywh=258,11738,2632,1148",
     "objectID": "0af4240408b18b2ff560c5fe8735afe7",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-2/00000001.tif/258,11738,2632,1148/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（詳細図）　[裏]"
+    ],
+    "架番号": [
+        "以-341-2"
+    ],
+    "表記": [
+        "\n\n\n\n\n\n\n「骨寺絵図案/寺領□□堺論/具書□」\n\n\n\n\n\n\n"
     ]
 }

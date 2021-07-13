@@ -4,12 +4,27 @@
         "花押"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-172.json",
+    "description": [
+        ""
+    ],
     "label": "東西陸段至于卿二位殿領堺（花押）",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=15842,9635,2333,1917",
     "objectID": "b1698386d32fd82e5d80bb309d8fb97a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/15842,9635,2333,1917/200,/0/default.jpg",
     "図": [
         "舎那院御領之絵図"
+    ],
+    "架番号": [
+        "保-172"
+    ],
+    "表記": [
+        "東西陸段至于卿二位殿領堺（花押）"
     ]
 }

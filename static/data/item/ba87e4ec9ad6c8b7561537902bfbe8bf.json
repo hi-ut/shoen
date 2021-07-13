@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市龍野町堂本。小宅井の末流。明治に入って下堂本と合併し、堂本村となる。"
+    ],
     "label": "上堂本",
+    "latitude": [
+        "34.860148"
+    ],
+    "longitude": [
+        "134.553278"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6786,15300,371,567",
     "objectID": "ba87e4ec9ad6c8b7561537902bfbe8bf",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6786,15300,371,567/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "上堂本"
     ]
 }

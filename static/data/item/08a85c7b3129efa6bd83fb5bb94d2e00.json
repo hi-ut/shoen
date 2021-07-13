@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市揖保川町山津屋。北山村の南、正条村の西に位置し、村内を馬路川が東流する。南には宝記山がある。"
+    ],
     "label": "山津屋村",
+    "latitude": [
+        "34.824166"
+    ],
+    "longitude": [
+        "134.524568"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1255,21980,770,394",
     "objectID": "08a85c7b3129efa6bd83fb5bb94d2e00",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1255,21980,770,394/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "山津屋村"
     ]
 }

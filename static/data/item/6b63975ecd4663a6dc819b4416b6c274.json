@@ -4,12 +4,27 @@
         "宮"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "description": [
+        "現京都府京都市右京区梅ヶ畑宮ノ口町。高尾に通ずる周山街道に面して鎮座。祭神は応神天皇。別称を梅ヶ畑八幡といい、梅ヶ畑一帯の土産神。"
+    ],
     "label": "平岡八幡宮",
+    "latitude": [
+        "35.040993"
+    ],
+    "longitude": [
+        "135.687693"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=18763,21279,2179,3866",
     "objectID": "6b63975ecd4663a6dc819b4416b6c274",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/18763,21279,2179,3866/200,/0/default.jpg",
     "図": [
         "神護寺領高雄山絵図"
+    ],
+    "架番号": [
+        "保-162"
+    ],
+    "表記": [
+        "　□〔平〕岡八幡宮"
     ]
 }

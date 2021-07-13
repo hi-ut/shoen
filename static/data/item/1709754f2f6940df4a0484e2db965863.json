@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-67.json",
+    "description": [
+        "宝珠院。三五世了堂素安塔所。素安は貞和元年没。"
+    ],
     "label": "宝珠庵",
+    "latitude": [
+        "35.332134"
+    ],
+    "longitude": [
+        "139.554509"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=19934,11998,847,455",
     "objectID": "1709754f2f6940df4a0484e2db965863",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/19934,11998,847,455/200,/0/default.jpg",
     "図": [
         "明月院古図"
+    ],
+    "架番号": [
+        "保-67"
+    ],
+    "表記": [
+        "宝珠庵"
     ]
 }

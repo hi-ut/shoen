@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-1.json",
+    "description": [
+        ""
+    ],
     "label": "石八井河",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/fe8a1ee96488d525108a960d38fb1e75/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=944,4392,316,785",
     "objectID": "85df4465a9c6a76af4bf9a8ce79d7840",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/944,4392,316,785/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（詳細図）　[表]"
+    ],
+    "架番号": [
+        "以-341-1"
+    ],
+    "表記": [
+        "石八井河"
     ]
 }

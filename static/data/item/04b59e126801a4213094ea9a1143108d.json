@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "現鳥取県東伯郡湯梨浜町宇野。宇野村。宇谷村の西に位置し、伯耆街道が通る。北は日本海に面して狭小な砂浜があり、ほか三方は丘陵に囲まれる。"
+    ],
     "label": "宇野",
+    "latitude": [
+        "35.506499"
+    ],
+    "longitude": [
+        "133.895852"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=2126,5139,169,162",
     "objectID": "04b59e126801a4213094ea9a1143108d",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/2126,5139,169,162/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "一宮領　宇野"
     ]
 }

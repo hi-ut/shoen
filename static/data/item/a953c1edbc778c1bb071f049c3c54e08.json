@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "description": [
+        ""
+    ],
     "label": "下五坪　一町　北縄本四反切畠",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=13169,1920,982,1018",
     "objectID": "a953c1edbc778c1bb071f049c3c54e08",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/13169,1920,982,1018/200,/0/default.jpg",
     "図": [
         "膳夫庄差図"
+    ],
+    "架番号": [
+        "保-56"
+    ],
+    "表記": [
+        "下五坪　一町　北縄本四反切畠"
     ]
 }

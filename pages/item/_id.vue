@@ -78,7 +78,7 @@
       <v-simple-table class="mt-10">
         <template #default>
           <tbody>
-            <tr v-if="false">
+            <tr>
               <td class="py-4">
                 <v-row>
                   <v-col cols="12" sm="3">{{ $t('description') }}</v-col>

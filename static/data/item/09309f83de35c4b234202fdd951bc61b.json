@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-1.json",
+    "description": [
+        "山王窟。現岩手県一関市厳美町本寺地区内にある。その西の境にある切り立った岩山。"
+    ],
     "label": "山王岩屋",
+    "latitude": [
+        "38.986926"
+    ],
+    "longitude": [
+        "140.91235"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/fe8a1ee96488d525108a960d38fb1e75/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3774,2654,267,578",
     "objectID": "09309f83de35c4b234202fdd951bc61b",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/3774,2654,267,578/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（詳細図）　[表]"
+    ],
+    "架番号": [
+        "以-341-1"
+    ],
+    "表記": [
+        "山王岩屋"
     ]
 }

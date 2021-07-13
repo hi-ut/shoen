@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県揖保郡太子町吉福。岩見構村の南に位置し、西は林田川で限られ、同川と揖保川の合流点に近い。"
+    ],
     "label": "吉福",
+    "latitude": [
+        "34.812149"
+    ],
+    "longitude": [
+        "134.558912"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7151,22425,472,676",
     "objectID": "159d8160de61fb2f3f7d4a0081488a8b",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7151,22425,472,676/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "吉福"
     ]
 }

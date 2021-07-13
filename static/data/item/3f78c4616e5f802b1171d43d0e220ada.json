@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "周防灘に沿って南北に延びる狭長な亀ノ甲台地の西隅に近く、長門鋳銭所跡東方の地、標高約一〇メートルの段丘に長門国分寺が造営されていた。当時の寺観はつまびらかでない。"
+    ],
     "label": "国分寺",
+    "latitude": [
+        "34.00006"
+    ],
+    "longitude": [
+        "130.985205"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=5468,3883,735,429",
     "objectID": "3f78c4616e5f802b1171d43d0e220ada",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/5468,3883,735,429/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "国分寺"
     ]
 }

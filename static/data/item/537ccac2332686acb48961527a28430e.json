@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "野田村。現兵庫県たつの市揖保川町野田。中垣内川を挟んで半田村の南に位置し、揖保川右岸に立地する。"
+    ],
     "label": "のだ村",
+    "latitude": [
+        "34.842476"
+    ],
+    "longitude": [
+        "134.532511"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1981,18727,407,564",
     "objectID": "537ccac2332686acb48961527a28430e",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1981,18727,407,564/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "のだ村"
     ]
 }

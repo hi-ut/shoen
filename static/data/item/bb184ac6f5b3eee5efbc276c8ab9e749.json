@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県揖保郡太子町宮本。常全村の南に位置し、西は林田川で限られる。村名は岩見郷の産土神石海神社が所在することによる。"
+    ],
     "label": "宮本",
+    "latitude": [
+        "34.823678"
+    ],
+    "longitude": [
+        "134.56052"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6810,20332,376,546",
     "objectID": "bb184ac6f5b3eee5efbc276c8ab9e749",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6810,20332,376,546/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "宮本"
     ]
 }

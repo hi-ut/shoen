@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/波-305.json",
+    "description": [
+        "現風市森神社。和歌山県紀の川市嶋にある。"
+    ],
     "label": "風社",
+    "latitude": [
+        "34.267306"
+    ],
+    "longitude": [
+        "135.396155"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=5112,3409,474,879",
     "objectID": "8fd3c075f7a477469058d38e4d69dc43",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/5112,3409,474,879/200,/0/default.jpg",
     "図": [
         "井上庄絵図"
+    ],
+    "架番号": [
+        "波-305"
+    ],
+    "表記": [
+        "新号風社是也"
     ]
 }

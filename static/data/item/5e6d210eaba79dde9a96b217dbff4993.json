@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "野方村のことか。現鳥取県東伯郡湯梨浜町野方。方地村の南西、舎人川と白石川の合流点南に位置し、山麓台地に集落が開ける。"
+    ],
     "label": "野方",
+    "latitude": [
+        "35.477887"
+    ],
+    "longitude": [
+        "133.918846"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=1556,1661,156,100",
     "objectID": "5e6d210eaba79dde9a96b217dbff4993",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/1556,1661,156,100/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "野方"
     ]
 }

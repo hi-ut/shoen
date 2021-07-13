@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-3.json",
+    "description": [
+        "浅い谷筋。この谷の頭に水神を祀ったとされる宇那根社があったとされるが、場所は特定されていない。"
+    ],
     "label": "中沢",
+    "latitude": [
+        "38.974109"
+    ],
+    "longitude": [
+        "140.95239"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/3fd93cf97c1b6000149df96f6637640c/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3990,9513,264,518",
     "objectID": "2dfa0b9b0791cc7bbb22b686b0f6ae8f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/3990,9513,264,518/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（簡略図）"
+    ],
+    "架番号": [
+        "以-341-3"
+    ],
+    "表記": [
+        "中沢"
     ]
 }

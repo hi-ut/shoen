@@ -4,12 +4,27 @@
         "堂"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-49.json",
+    "description": [
+        "現神願寺か。絵図には「八幡宮」とその神宮寺とみられる「堂」が描かれており、前者が宝来山神社、後者が宝来山延命院神宮寺（現神願寺）と推察される。"
+    ],
     "label": "堂",
+    "latitude": [
+        "34.291651"
+    ],
+    "longitude": [
+        "135.469342"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ee5715a004c2510b65ee646f50d1475b/canvas/p1#xywh=15203,5342,752,765",
     "objectID": "f4e632bfa8e065eb746b1ddd433ed3b0",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/49/00000001.tif/15203,5342,752,765/200,/0/default.jpg",
     "図": [
         "高雄山神護寺領地紀伊国〓(かせ)田庄図"
+    ],
+    "架番号": [
+        "保-49"
+    ],
+    "表記": [
+        "堂"
     ]
 }

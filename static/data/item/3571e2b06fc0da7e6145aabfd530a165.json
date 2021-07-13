@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "遺構は認められず、規模も明らかでないが、境内絵図や地形から旧毛利邸付近に比定される。"
+    ],
     "label": "守護館",
+    "latitude": [
+        "33.997749"
+    ],
+    "longitude": [
+        "130.984374"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=1629,10811,1617,2063",
     "objectID": "3571e2b06fc0da7e6145aabfd530a165",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/1629,10811,1617,2063/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "守護館"
     ]
 }

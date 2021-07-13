@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市揖保町真砂。萩原村の東に位置し、村の南部で揖保川と林田川が合流する。揖西郡に属した。"
+    ],
     "label": "真砂",
+    "latitude": [
+        "34.815457"
+    ],
+    "longitude": [
+        "134.554118"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5319,21990,346,662",
     "objectID": "196122fa56cbd73a06e27be0a6b149fa",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5319,21990,346,662/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "真砂"
     ]
 }

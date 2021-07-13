@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "鎌倉中期にみえる郷名。初めは東郷（のち東郷庄）に対しての呼称であったと考えられる。郷域は現倉吉市北東端の天神川右岸の小沖積地に比定される。"
+    ],
     "label": "西郷",
+    "latitude": [
+        "35.434091"
+    ],
+    "longitude": [
+        "133.854019"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=4348,3072,144,113",
     "objectID": "342487cba2ef6bb13ff10e64b2220f41",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/4348,3072,144,113/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "西郷"
     ]
 }

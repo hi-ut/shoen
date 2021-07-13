@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-67.json",
+    "description": [
+        "円覚寺と建長寺の間を北東に走る明月谷の南裾にある。臨済宗建長寺派、本尊如意輪観音。古くは禅興寺の塔頭であった。"
+    ],
     "label": "明月院",
+    "latitude": [
+        "35.334829"
+    ],
+    "longitude": [
+        "139.551481"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/1dbd0aa20da6cbdc609e46a4409eadc2/canvas/p1#xywh=530,13154,333,1281",
     "objectID": "8a8d72dd6d39064ac72de12c05a1bd84",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/67/00000001.tif/530,13154,333,1281/200,/0/default.jpg",
     "図": [
+        "明月院古図"
+    ],
+    "架番号": [
+        "保-67"
+    ],
+    "表記": [
         "明月院古図"
     ]
 }

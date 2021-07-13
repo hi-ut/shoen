@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "description": [
+        "十三神社。貴志川の曲流部に臨み、三方を河流に囲まれる。古くは十三社（十三所）明神社とよばれた。旧村社。当地一帯が神野荘となる平安後期以降、同荘の鎮守社とされ、近世にも神野荘一七ヵ村の総産土神とされた。"
+    ],
     "label": "十三所大明神",
+    "latitude": [
+        "34.147267"
+    ],
+    "longitude": [
+        "135.35116"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=9727,7755,823,505",
     "objectID": "3db39d8945a1fe3bb6487b0612aa7ee0",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/9727,7755,823,505/200,/0/default.jpg",
     "図": [
         "紀伊国神野真国御庄絵図　康治二年"
+    ],
+    "架番号": [
+        "保-66"
+    ],
+    "表記": [
+        "十三所大明神"
     ]
 }

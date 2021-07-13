@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-68.json",
+    "description": [
+        "円覚寺向い側の丘陵にある。臨済宗円覚寺派。松岡山東慶総持禅寺。本尊釈迦如来。開山覚山志道尼、開基北条貞時と伝える。"
+    ],
     "label": "東慶寺",
+    "latitude": [
+        "35.335143"
+    ],
+    "longitude": [
+        "139.545579"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=12184,16613,1558,1484",
     "objectID": "c4e0ddd748ea2a2010b38a5d66522519",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/12184,16613,1558,1484/200,/0/default.jpg",
     "図": [
         "円覚寺境内古図"
+    ],
+    "架番号": [
+        "保-68"
+    ],
+    "表記": [
+        "東慶寺"
     ]
 }

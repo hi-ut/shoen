@@ -140,6 +140,14 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-tag',
     },
+    {
+      label: "現代地図",
+      path: {
+        name: 'map',
+      },
+      description: '',
+      icon: 'mdi-map',
+    },
     /*
     {
       label: this.$t('list'),

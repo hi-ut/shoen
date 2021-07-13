@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-39.json",
+    "description": [
+        "比叡山西麓、旧来迎院村の東に位置する。ただし、古くは漠然と小野（愛宕郡小野郷）にある山の意で用いられている。"
+    ],
     "label": "小乃",
+    "latitude": [
+        "35.101467"
+    ],
+    "longitude": [
+        "135.65997"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1#xywh=1072,6671,475,687",
     "objectID": "f022822f99821557963b6bd7c7435fae",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/1072,6671,475,687/200,/0/default.jpg",
     "図": [
         "主殿寮御領小野山与神護寺領堺相論指図"
+    ],
+    "架番号": [
+        "保-39"
+    ],
+    "表記": [
+        "小乃"
     ]
 }
