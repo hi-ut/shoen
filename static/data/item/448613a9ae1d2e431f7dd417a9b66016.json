@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "label": "相博地",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=11113,8770,1658,2845",
+    "objectID": "448613a9ae1d2e431f7dd417a9b66016",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/11113,8770,1658,2845/200,/0/default.jpg",
+    "図": [
+        "大和国西大寺与秋篠寺堺相論絵図"
+    ]
+}

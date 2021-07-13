@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "門"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "label": "北門",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=9645,6229,428,477",
+    "objectID": "332c12f989a74d1ae058fcab7d3888e3",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/9645,6229,428,477/200,/0/default.jpg",
+    "図": [
+        "長門二宮絵図2"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "宮"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "label": "長智宮　西分",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=3518,1884,192,185",
+    "objectID": "8176b6b00bfd8b3e0b294a8ec36542ca",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/3518,1884,192,185/200,/0/default.jpg",
+    "図": [
+        "伯耆国河村郡東郷庄之図"
+    ]
+}

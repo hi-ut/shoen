@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "label": "大湯屋",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=3538,12860,805,1599",
+    "objectID": "d27ce89ce255562856a7ce0a583aa103",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/3538,12860,805,1599/200,/0/default.jpg",
+    "図": [
+        "神護寺領高雄山絵図"
+    ]
+}

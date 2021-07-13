@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "河"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "label": "野上御庄延久四年官符云、東限佐々小河",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=7173,13892,2575,501",
+    "objectID": "4829f92e95f924be279cf7ad7f211cdc",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/7173,13892,2575,501/200,/0/default.jpg",
+    "図": [
+        "紀伊国神野真国御庄絵図　康治二年"
+    ]
+}

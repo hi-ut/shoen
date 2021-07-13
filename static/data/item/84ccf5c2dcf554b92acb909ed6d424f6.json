@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "山"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "label": "吉田山",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3525,4075,717,786",
+    "objectID": "84ccf5c2dcf554b92acb909ed6d424f6",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/3525,4075,717,786/200,/0/default.jpg",
+    "図": [
+        "足守庄図"
+    ]
+}

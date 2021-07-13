@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "寺"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-68.json",
+    "label": "円覚寺",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/efe784b6cea61bf413518bdbb205f4e4/canvas/p1#xywh=337,14729,270,1297",
+    "objectID": "8e51d05a60dfd810a92f303a76579e9d",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/68/00000001.tif/337,14729,270,1297/200,/0/default.jpg",
+    "図": [
+        "円覚寺境内古図"
+    ]
+}

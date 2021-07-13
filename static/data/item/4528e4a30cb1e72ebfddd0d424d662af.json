@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "寺"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "label": "極楽寺",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=11059,13228,848,378",
+    "objectID": "4528e4a30cb1e72ebfddd0d424d662af",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/11059,13228,848,378/200,/0/default.jpg",
+    "図": [
+        "長門二宮絵図1"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "河"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/波-305.json",
+    "label": "小河",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=6979,986,426,859",
+    "objectID": "285b7fe4071d7f3db15f8f8006872ae5",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/6979,986,426,859/200,/0/default.jpg",
+    "図": [
+        "井上庄絵図"
+    ]
+}

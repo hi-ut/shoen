@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-57.json",
+    "label": "一　蓮光寺",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/canvas/p1#xywh=11053,3013,490,541",
+    "objectID": "99f37172779f9e23f5d29ae0e2e25e02",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/57/00000001.tif/11053,3013,490,541/200,/0/default.jpg",
+    "図": [
+        "百済庄屋敷田畠差図"
+    ]
+}

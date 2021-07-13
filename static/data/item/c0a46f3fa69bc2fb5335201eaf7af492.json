@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "label": "一町内　五段　モツタ　五段　ツネミツ",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12565,1656,1045,864",
+    "objectID": "c0a46f3fa69bc2fb5335201eaf7af492",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/12565,1656,1045,864/200,/0/default.jpg",
+    "図": [
+        "但馬国神戸郷絵図"
+    ]
+}

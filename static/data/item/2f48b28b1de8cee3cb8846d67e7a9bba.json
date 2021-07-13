@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "堂"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "label": "御影堂",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=4583,15813,1333,1984",
+    "objectID": "2f48b28b1de8cee3cb8846d67e7a9bba",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/4583,15813,1333,1984/200,/0/default.jpg",
+    "図": [
+        "神護寺領高雄山絵図"
+    ]
+}

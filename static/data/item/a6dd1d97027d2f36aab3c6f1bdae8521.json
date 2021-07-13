@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "榜示"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "label": "乾牓示向荒河御庄牓示立之",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=2880,13062,1356,681",
+    "objectID": "a6dd1d97027d2f36aab3c6f1bdae8521",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/2880,13062,1356,681/200,/0/default.jpg",
+    "図": [
+        "紀伊国神野真国御庄絵図　康治二年"
+    ]
+}

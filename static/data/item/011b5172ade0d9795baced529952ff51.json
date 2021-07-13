@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "裏書"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "label": "高雄山四至＊示絵図、今度一覧之処、自寛喜弐年至于今、年久之間、悉依破壊、修補之、而為後勘判形 　　　元和六年十月廿一日　　前伊賀守（花押）",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=11508,4749,9597,2840",
+    "objectID": "011b5172ade0d9795baced529952ff51",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/11508,4749,9597,2840/200,/0/default.jpg",
+    "図": [
+        "神護寺領高雄山絵図"
+    ]
+}

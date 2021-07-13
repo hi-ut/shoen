@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "label": "シイノモト　一町内　三反　毘沙門堂田　七反　神田",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=3757,7452,1060,918",
+    "objectID": "35da2e5644fdef7a26cfdb9f95c5934a",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/3757,7452,1060,918/200,/0/default.jpg",
+    "図": [
+        "但馬国神戸郷絵図"
+    ]
+}

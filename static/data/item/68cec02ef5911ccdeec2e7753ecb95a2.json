@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-119.json",
+    "label": "当寺檀那",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/canvas/p1#xywh=614,8204,649,286",
+    "objectID": "68cec02ef5911ccdeec2e7753ecb95a2",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/614,8204,649,286/200,/0/default.jpg",
+    "図": [
+        "称名寺古図"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "label": "井上本庄西堺",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=2038,2332,377,893",
+    "objectID": "496569dd26c2b122e07833e6bc85688c",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/2038,2332,377,893/200,/0/default.jpg",
+    "図": [
+        "紀伊国井上本庄絵図"
+    ]
+}

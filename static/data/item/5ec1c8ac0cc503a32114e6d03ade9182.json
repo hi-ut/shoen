@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "付箋"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "label": "（付箋）「於論所之次第者、無相違絵図也、於山岳者令参差、其故者、於当知行之山地者、委不及注進之申之間、凡山岳相違之」",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=1279,328,1140,4084",
+    "objectID": "5ec1c8ac0cc503a32114e6d03ade9182",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/1279,328,1140,4084/200,/0/default.jpg",
+    "図": [
+        "大和国西大寺与秋篠寺堺相論絵図"
+    ]
+}

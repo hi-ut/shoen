@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "田"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-313-1.json",
+    "label": "山里田",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/cf381bcf6a0048c88ee612b1fea35ddf/canvas/p1#xywh=4475,4535,1030,1009",
+    "objectID": "95f111c72b34fefc8a70a895a6d471c1",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/313/1/00000001.tif/4475,4535,1030,1009/200,/0/default.jpg",
+    "図": [
+        "薩摩国日置北郷下地中分絵図(表)"
+    ]
+}

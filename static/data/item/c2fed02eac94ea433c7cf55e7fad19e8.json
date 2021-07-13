@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-341-2.json",
+    "label": "骨寺村",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/9ea15b66a183bcd119e3a3776328d4a2/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/9ea15b66a183bcd119e3a3776328d4a2/canvas/p1#xywh=131,6580,562,3623",
+    "objectID": "c2fed02eac94ea433c7cf55e7fad19e8",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-2/00000001.tif/131,6580,562,3623/200,/0/default.jpg",
+    "図": [
+        "陸奥国骨寺絵図（詳細図）　[裏]"
+    ]
+}

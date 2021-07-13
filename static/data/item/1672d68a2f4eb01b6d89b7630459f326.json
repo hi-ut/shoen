@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "山"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "label": "四王寺山",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=1385,769,1748,3734",
+    "objectID": "1672d68a2f4eb01b6d89b7630459f326",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/1385,769,1748,3734/200,/0/default.jpg",
+    "図": [
+        "長門二宮絵図1"
+    ]
+}

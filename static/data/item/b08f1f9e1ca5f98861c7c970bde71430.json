@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "label": "志野川",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=1730,3783,634,830",
+    "objectID": "b08f1f9e1ca5f98861c7c970bde71430",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/1730,3783,634,830/200,/0/default.jpg",
+    "図": [
+        "紀伊国井上本庄絵図"
+    ]
+}

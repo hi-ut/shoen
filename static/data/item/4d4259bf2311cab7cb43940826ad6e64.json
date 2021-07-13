@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "堂"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "label": "王子堂",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=11066,7354,1049,932",
+    "objectID": "4d4259bf2311cab7cb43940826ad6e64",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/11066,7354,1049,932/200,/0/default.jpg",
+    "図": [
+        "足守庄図"
+    ]
+}

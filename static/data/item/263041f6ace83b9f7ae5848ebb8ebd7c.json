@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "宮"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "label": "八幡宮",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=6445,8265,628,894",
+    "objectID": "263041f6ace83b9f7ae5848ebb8ebd7c",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/6445,8265,628,894/200,/0/default.jpg",
+    "図": [
+        "足守庄図"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "田"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/以-341-3.json",
+    "label": "田",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/3fd93cf97c1b6000149df96f6637640c/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4608,5027,343,297",
+    "objectID": "7174914ec9095f7d1a2208b46d4e1b9a",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/4608,5027,343,297/200,/0/default.jpg",
+    "図": [
+        "陸奥国骨寺絵図（簡略図）"
+    ]
+}

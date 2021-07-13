@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-57.json",
+    "label": "卅五",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/canvas/p1#xywh=7132,7232,493,504",
+    "objectID": "f0a47189336d49b8965716593b2ae9b2",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/57/00000001.tif/7132,7232,493,504/200,/0/default.jpg",
+    "図": [
+        "百済庄屋敷田畠差図"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        ""
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "label": "一町　郷分也　",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8783,6572,695,901",
+    "objectID": "59512292e745b9d4fe7dadfe41f70d0a",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/8783,6572,695,901/200,/0/default.jpg",
+    "図": [
+        "但馬国神戸郷絵図"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "_updated": "2021-07-13",
+    "category": [
+        "方角"
+    ],
+    "curation": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "label": "北",
+    "manifest": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
+    "member": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=4948,73,442,411",
+    "objectID": "d616ddc6c89cbc0a54e90773e8f1230d",
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/4948,73,442,411/200,/0/default.jpg",
+    "図": [
+        "菅浦与大浦下庄堺絵図"
+    ]
+}
