@@ -41,6 +41,7 @@
   
             </span>
           </template>
+          <!--
           <p v-if="item.description">
             <template v-for="(value, key) in item.description">
               <small v-if="value.length < 50" :key="key">
@@ -55,6 +56,7 @@
           <p v-if="false">
             <v-icon>mdi-database</v-icon> {{ item.attribution }}
           </p>
+          -->
         </div>
         <div class="text-right">
           <ResultOption

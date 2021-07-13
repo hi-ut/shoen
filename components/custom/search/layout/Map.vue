@@ -72,7 +72,7 @@
             <v-card-title class="text-h5 grey lighten-2">
               <span class="text-h5">{{ detail.label }}</span>
             </v-card-title>
-            <v-card-text style="height: 600px; overflow-y: auto" class="py-5">
+            <v-card-text style="height: 400px; overflow-y: auto" class="py-5">
               <v-simple-table>
                 <template v-slot:default>
                   <tbody>
@@ -163,6 +163,8 @@ function createElementFromHTML(htmlString) {
   return div.firstChild; 
 }
 
+
+
 // ##########
 
 export default {
@@ -182,7 +184,7 @@ export default {
       rows : [],
       viewer : null,
       anno : null,
-      tabs: "",
+      tabs: "0",
       items: [],
       thres: 2000,
       alert : false,
@@ -199,10 +201,9 @@ export default {
       required: true,
     }
   },
-
   mounted(){
-    console.log(this.details, this.hide)
     this.init()
+    this.update()
   },
 
   methods: {
@@ -334,29 +335,25 @@ export default {
     async update(){
       //初期化
       document.getElementById("openseadragon").innerHTML = "";
-
       const item = this.items[Number(this.tabs)]
 
       const res = await axios.get(item.image);
       const tileSources = res.data;
 
+      const config = {readOnly: true, locale: 'auto',
+                widgets: [HelloWorldPlugin]};
+      
       const viewer = OpenSeadragon({
         id: "openseadragon",
         prefixUrl: "https://recogito.github.io/js/openseadragon/images/",
         tileSources
       });
 
-      this.viewer = viewer
-
-      const config = {readOnly: true, locale: 'auto',
-                widgets: [HelloWorldPlugin]};
-
       const anno = Annotorious(viewer, config);
-      this.anno = anno
-
       anno.setAnnotations(item.annos);
 
       this.rows = item.rows
+      this.anno = anno
     },
     showAll(){
       this.thres = -1
@@ -366,12 +363,14 @@ export default {
   },
 
   watch: {
-    tabs: function(value){
+    tabs: function(new2, old){
       this.update()
     },
-    aggs: function(){
-      this.init()
-      this.update()
+    aggs: function(new2, old){
+      if(JSON.stringify(new2) != JSON.stringify(old)){
+        this.init()
+        this.update()
+      } 
     }
   }
 }

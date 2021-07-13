@@ -58,7 +58,7 @@ env.sort = [
   {label: "適合度", value: "_score"},
 ]
 
-env.defaultSort = "冊:asc"
+env.defaultSort = "_score:desc"
 
 env.layout = [
   {

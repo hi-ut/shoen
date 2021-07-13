@@ -45,7 +45,7 @@
 
         // Base layers
 
-        var opentopomap = L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png', {attribution: "<a href='https://maps.gsi.go.jp/development/ichiran.html' target='_blank'>地理院タイル</a>", minZoom: 3, maxZoom: 18});
+        var opentopomap = L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {attribution: "<a href='https://maps.gsi.go.jp/development/ichiran.html' target='_blank'>地理院タイル</a>", minZoom: 3, maxZoom: 18});
 
         //  .. OpenStreetMap
         var osm = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors', minZoom: 3, maxZoom: 18});
@@ -103,7 +103,7 @@
             return this._div;
         };
         title.update = function(props) {
-            this._div.innerHTML = src;
+            //this._div.innerHTML = src;
         };
         title.addTo(map);
 
@@ -129,7 +129,6 @@
             for(const item of responseJson){
                 if(item["図"][0] === label){
                     if(item.latitude[0] !== ""){
-                        //console.log(item)
 
                         marker = new L.marker([Number(item.latitude[0]), Number(item.longitude[0])])
                         .bindPopup(`<div><a target="_parent" href="../item/${item.objectID}">${item.label}</a></div>`)

@@ -259,14 +259,16 @@ export default class Item extends Vue {
   }
 
   get myText() {
+    const siteName: any = process.env.siteName
+    const footer: any = process.env.footer
     if (this.$i18n.locale === 'en') {
-      const attribution = "Suikeichuzu - Toyo Bunko"
+      const attribution = this.$t(siteName) + " - " + this.$t(footer)
       //const attribution = provided by${(this as any).item.attribution}
       return `"${this.title}" ${attribution} (${
         this.url
       })`
     } else {
-      const attribution = "水経注図 - 東洋文庫"
+      const attribution = siteName + " - " + footer
        //const attribution = 「${(this as any).item.attribution}」収録
       return `『${this.title}』${attribution} (${
         this.url
