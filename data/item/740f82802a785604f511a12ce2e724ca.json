@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-172.json",
+    "description": [
+        ""
+    ],
     "label": "検非違使康信妹領",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=16143,15653,1384,597",
     "objectID": "740f82802a785604f511a12ce2e724ca",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/16143,15653,1384,597/200,/0/default.jpg",
     "図": [
         "舎那院御領之絵図"
+    ],
+    "架番号": [
+        "保-172"
+    ],
+    "表記": [
+        "検非違使康信妹領"
     ]
 }

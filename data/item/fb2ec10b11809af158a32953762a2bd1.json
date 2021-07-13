@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "description": [
+        "古代から中世にかけて豊前国企救郡に置かれた関。現在は文字ヶ関公園の中に門司関址として石碑が建っている。"
+    ],
     "label": "門司関",
+    "latitude": [
+        "33.956923"
+    ],
+    "longitude": [
+        "130.964308"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=2881,20048,1518,1372",
     "objectID": "fb2ec10b11809af158a32953762a2bd1",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/2881,20048,1518,1372/200,/0/default.jpg",
     "図": [
         "長門二宮絵図2"
+    ],
+    "架番号": [
+        "保-167-2"
+    ],
+    "表記": [
+        "門司関"
     ]
 }

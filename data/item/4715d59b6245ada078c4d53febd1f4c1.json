@@ -4,12 +4,27 @@
         "花押"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-172.json",
+    "description": [
+        ""
+    ],
     "label": "東西壱町肆段弐杖（花押）　□□〔至于〕峯杭所",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=17509,7353,954,2463",
     "objectID": "4715d59b6245ada078c4d53febd1f4c1",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/17509,7353,954,2463/200,/0/default.jpg",
     "図": [
         "舎那院御領之絵図"
+    ],
+    "架番号": [
+        "保-172"
+    ],
+    "表記": [
+        "東西壱町肆段弐杖（花押）　□□〔至于〕峯杭所"
     ]
 }

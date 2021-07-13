@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "萱津の「七ツ寺」に含まれ、鎌倉期以前から現在の地に存在したという。現愛知県あま市中萱津道場。"
+    ],
     "label": "光明寺",
+    "latitude": [
+        "35.188477"
+    ],
+    "longitude": [
+        "136.842032"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=11939,2910,728,491",
     "objectID": "d09f4d76962886df390342ccff935a1f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/11939,2910,728,491/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "光明寺"
     ]
 }

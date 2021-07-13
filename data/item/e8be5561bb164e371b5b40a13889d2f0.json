@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-57.json",
+    "description": [
+        ""
+    ],
     "label": "廿五　コケウ",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/canvas/p1#xywh=11061,4388,494,490",
     "objectID": "e8be5561bb164e371b5b40a13889d2f0",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/57/00000001.tif/11061,4388,494,490/200,/0/default.jpg",
     "図": [
         "百済庄屋敷田畠差図"
+    ],
+    "架番号": [
+        "保-57"
+    ],
+    "表記": [
+        "廿五　コケウ"
     ]
 }

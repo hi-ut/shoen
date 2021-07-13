@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        ""
+    ],
     "label": "十二条七里廿八坪　東柚窪 二反　他領",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10271,11379,2329,2279",
     "objectID": "4d6a9a7950487e05213fe08718ac80c0",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/10271,11379,2329,2279/200,/0/default.jpg",
     "図": [
         "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
+        "十二条七里廿八坪　東柚窪 二反　他領"
     ]
 }

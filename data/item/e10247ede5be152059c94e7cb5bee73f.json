@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-55.json",
+    "description": [
+        ""
+    ],
     "label": "アレ",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=3572,2553,289,486",
     "objectID": "e10247ede5be152059c94e7cb5bee73f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/3572,2553,289,486/200,/0/default.jpg",
     "図": [
         "箸喰庄差図"
+    ],
+    "架番号": [
+        "保-55"
+    ],
+    "表記": [
+        "アレ"
     ]
 }

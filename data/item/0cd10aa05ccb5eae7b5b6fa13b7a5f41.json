@@ -4,12 +4,27 @@
         "社"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "description": [
+        "守宮司神社。忌宮神社境外摂社。昭和40年代より惣社宮が守宮司神社の境内内にある。惣社宮は昭和40年代までは惣社４番地の一隅にあった。"
+    ],
     "label": "守宮司社",
+    "latitude": [
+        "33.996516"
+    ],
+    "longitude": [
+        "130.986432"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=4124,13657,401,350",
     "objectID": "0cd10aa05ccb5eae7b5b6fa13b7a5f41",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/4124,13657,401,350/200,/0/default.jpg",
     "図": [
         "長門二宮絵図2"
+    ],
+    "架番号": [
+        "保-167-2"
+    ],
+    "表記": [
+        "守宮司社"
     ]
 }

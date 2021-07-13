@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        ""
+    ],
     "label": "福富",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=3846,15916,1395,767",
     "objectID": "7c48655f2bd9f8d885052e8a48e3a34b",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/3846,15916,1395,767/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "福富"
     ]
 }

@@ -4,12 +4,27 @@
         "河"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-55.json",
+    "description": [
+        "曽我川。"
+    ],
     "label": "河",
+    "latitude": [
+        "34.485061"
+    ],
+    "longitude": [
+        "135.767949"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2651,2531,509,365",
     "objectID": "678f7255414bfcb3575562155d9a7b77",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/2651,2531,509,365/200,/0/default.jpg",
     "図": [
         "箸喰庄差図"
+    ],
+    "架番号": [
+        "保-55"
+    ],
+    "表記": [
+        "河"
     ]
 }

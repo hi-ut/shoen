@@ -4,12 +4,27 @@
         "山"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-3.json",
+    "description": [
+        "ミタケ堂があったと考えられる。現在は山そのものがミタケドウと呼ばれている。"
+    ],
     "label": "金峯山",
+    "latitude": [
+        "38.981739"
+    ],
+    "longitude": [
+        "140.950963"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/3fd93cf97c1b6000149df96f6637640c/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7263,6824,604,350",
     "objectID": "fe2e07b7c2eaba532f5d3d89185f2969",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/7263,6824,604,350/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（簡略図）"
+    ],
+    "架番号": [
+        "以-341-3"
+    ],
+    "表記": [
+        "金峯山"
     ]
 }

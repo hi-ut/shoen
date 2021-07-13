@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市龍野町日飼。島田村の南に位置し、揖保川の左岸沿いに延びる自然堤防上に立地する。揖東郡に属し、東は片山村。中世は小宅庄に属した。"
+    ],
     "label": "日飼村",
+    "latitude": [
+        "34.865673"
+    ],
+    "longitude": [
+        "134.553731"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4862,12645,536,635",
     "objectID": "1309e586eb7295ae74cadc7bdd90f04f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4862,12645,536,635/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "日飼村"
     ]
 }

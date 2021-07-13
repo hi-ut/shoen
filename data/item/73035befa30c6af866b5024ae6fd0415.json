@@ -4,12 +4,27 @@
         "里"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "春田村。西は戸田村に接する。現愛知県名古屋市中川区春田。"
+    ],
     "label": "春田里",
+    "latitude": [
+        "35.143196"
+    ],
+    "longitude": [
+        "136.813592"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=7097,10467,993,892",
     "objectID": "73035befa30c6af866b5024ae6fd0415",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/7097,10467,993,892/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "春田里"
     ]
 }

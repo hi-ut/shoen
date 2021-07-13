@@ -4,12 +4,27 @@
         "谷"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-39.json",
+    "description": [
+        ""
+    ],
     "label": "清塩瀧谷",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1#xywh=8129,11024,909,355",
     "objectID": "5edefcdf1017b9fe73dc14d2ecbd0dbb",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/8129,11024,909,355/200,/0/default.jpg",
     "図": [
         "主殿寮御領小野山与神護寺領堺相論指図"
+    ],
+    "架番号": [
+        "保-39"
+    ],
+    "表記": [
+        "清塩瀧谷"
     ]
 }

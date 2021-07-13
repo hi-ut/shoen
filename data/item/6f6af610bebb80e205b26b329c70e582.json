@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "長和田村。現鳥取県東伯郡湯梨浜町長和田。野花村の西、東郷池の南岸に位置する。羽衣石川下流部の自然堤防上に立地し、倉吉往来が通る。長郷田とも記された。"
+    ],
     "label": "長和田",
+    "latitude": [
+        "35.461763"
+    ],
+    "longitude": [
+        "133.880836"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=3152,1335,84,183",
     "objectID": "6f6af610bebb80e205b26b329c70e582",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/3152,1335,84,183/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "長和田　西方"
     ]
 }

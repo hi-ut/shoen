@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        ""
+    ],
     "label": "十二条八里一坪 一坪 三反　他領 （合点）二反　四郎　六斗 （合点） 藤五郎　一斗 ○善学　一斗",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=3037,6531,2299,2284",
     "objectID": "4e660e0dcca7d4b928b23fe26d6a450c",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/3037,6531,2299,2284/200,/0/default.jpg",
     "図": [
         "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
+        "十二条八里一坪 一坪 三反　他領 （合点）二反　四郎　六斗 （合点） 藤五郎　一斗 ○善学　一斗"
     ]
 }

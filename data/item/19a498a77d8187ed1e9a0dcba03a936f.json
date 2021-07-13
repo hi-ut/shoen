@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "description": [
+        ""
+    ],
     "label": "池内　二反　郷分田　一反　郷分畠　大　サタキヨ名田也",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=13851,9442,1093,909",
     "objectID": "19a498a77d8187ed1e9a0dcba03a936f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/13851,9442,1093,909/200,/0/default.jpg",
     "図": [
         "但馬国神戸郷絵図"
+    ],
+    "架番号": [
+        "仁-124"
+    ],
+    "表記": [
+        "池内　二反　郷分田　一反　郷分畠　大　サタキヨ名田也"
     ]
 }

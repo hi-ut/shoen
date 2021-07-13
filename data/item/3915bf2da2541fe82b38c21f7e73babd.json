@@ -4,12 +4,27 @@
         "里"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "戸田村。現愛知県名古屋市中川区戸田。"
+    ],
     "label": "富田里",
+    "latitude": [
+        "35.14196"
+    ],
+    "longitude": [
+        "136.807526"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=5470,8433,1085,996",
     "objectID": "3915bf2da2541fe82b38c21f7e73babd",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/5470,8433,1085,996/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "富田里"
     ]
 }

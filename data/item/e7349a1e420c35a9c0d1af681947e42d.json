@@ -4,12 +4,27 @@
         "川"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "揖保川。兵庫県西部を北から南に流れる川。"
+    ],
     "label": "大川",
+    "latitude": [
+        "34.878855"
+    ],
+    "longitude": [
+        "134.548101"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=3793,10737,1015,2129",
     "objectID": "e7349a1e420c35a9c0d1af681947e42d",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/3793,10737,1015,2129/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "大川"
     ]
 }

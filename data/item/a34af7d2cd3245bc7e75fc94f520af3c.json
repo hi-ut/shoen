@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "description": [
+        ""
+    ],
     "label": "□（荒もしくは忌）木　一反半　井田　一反半　イマキラ井田　一反　柳井 田",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=12601,9455,1167,897",
     "objectID": "a34af7d2cd3245bc7e75fc94f520af3c",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/12601,9455,1167,897/200,/0/default.jpg",
     "図": [
         "但馬国神戸郷絵図"
+    ],
+    "架番号": [
+        "仁-124"
+    ],
+    "表記": [
+        "□（荒もしくは忌）木　一反半　井田　一反半　イマキラ井田　一反　柳井 田"
     ]
 }

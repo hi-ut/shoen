@@ -4,12 +4,27 @@
         "河"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/波-305.json",
+    "description": [
+        ""
+    ],
     "label": "小竹河",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=2225,1285,590,815",
     "objectID": "13d79fc5c20beb5265ba95dbc8cea247",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/2225,1285,590,815/200,/0/default.jpg",
     "図": [
         "井上庄絵図"
+    ],
+    "架番号": [
+        "波-305"
+    ],
+    "表記": [
+        "小竹河"
     ]
 }

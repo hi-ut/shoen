@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "description": [
+        "神野庄の東、貴志川沿いの谷間とその両側の山地を荘域とする高野山領荘園。現和歌山県海草郡紀美野町今西・松ヶ峰・菅沢・田・谷・中・滝ノ川付近と考えられる。後に猿川庄となるが、いつ荘園として成立したかは不明。"
+    ],
     "label": "猿川村",
+    "latitude": [
+        "34.139928"
+    ],
+    "longitude": [
+        "135.411075"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=8009,4255,589,407",
     "objectID": "56d3c09e7697f88eff3882dbad742d29",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/8009,4255,589,407/200,/0/default.jpg",
     "図": [
         "紀伊国神野真国御庄絵図　康治二年"
+    ],
+    "架番号": [
+        "保-66"
+    ],
+    "表記": [
+        "猿川村"
     ]
 }

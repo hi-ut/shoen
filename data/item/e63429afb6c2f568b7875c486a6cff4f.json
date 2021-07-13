@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/波-305.json",
+    "description": [
+        "近世、和歌山城下と大和・伊勢方面を結ぶ要道。"
+    ],
     "label": "大路",
+    "latitude": [
+        "34.268761"
+    ],
+    "longitude": [
+        "135.405593"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=3429,3636,437,481",
     "objectID": "e63429afb6c2f568b7875c486a6cff4f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/3429,3636,437,481/200,/0/default.jpg",
     "図": [
         "井上庄絵図"
+    ],
+    "架番号": [
+        "波-305"
+    ],
+    "表記": [
+        "大路"
     ]
 }

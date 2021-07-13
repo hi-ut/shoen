@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "現愛知県名古屋市中川区富田町大字戸田狐塚。"
+    ],
     "label": "狐墓",
+    "latitude": [
+        "35.131723"
+    ],
+    "longitude": [
+        "136.803527"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=4466,13362,650,692",
     "objectID": "23130aa2ada79f756e073e8f6a522c47",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/4466,13362,650,692/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "狐墓"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        ""
+    ],
     "label": "十二条七里十四坪 三段田　云北不軽野 白毫寺領 ○目　三斗 職事田 （合点）「後平三　三斗七升 ○庄司　二斗 ○預所名 良実一斗 ○二反平太郎　六斗 （合点）藤内　一斗 （合点）善縁　一斗",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5453,16234,2338,2246",
     "objectID": "58a0113db3af9a4e849ec725e2e3abd2",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/5453,16234,2338,2246/200,/0/default.jpg",
     "図": [
         "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
+        "十二条七里十四坪 三段田　云北不軽野 白毫寺領 ○目　三斗 職事田 （合点）「後平三　三斗七升 ○庄司　二斗 ○預所名 良実一斗 ○二反平太郎　六斗 （合点）藤内　一斗 （合点）善縁　一斗"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "description": [
+        ""
+    ],
     "label": "大般若田",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=17805,4301,336,746",
     "objectID": "3dda7a67faf8f0ebc3521eaa38d11b64",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/17805,4301,336,746/200,/0/default.jpg",
     "図": [
         "大和国西大寺与秋篠寺堺相論絵図"
+    ],
+    "架番号": [
+        "仁-126"
+    ],
+    "表記": [
+        "大般若田"
     ]
 }

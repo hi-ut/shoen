@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        ""
+    ],
     "label": "網干井",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8633,24419,614,553",
     "objectID": "b8c3647915d026deb2fa6a3b3a044007",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8633,24419,614,553/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "網干井"
     ]
 }

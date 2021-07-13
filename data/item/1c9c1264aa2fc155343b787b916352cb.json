@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-162.json",
+    "description": [
+        "現在小字として残る。現京都府京都市右京区梅ヶ畑寺尾。"
+    ],
     "label": "寺尾",
+    "latitude": [
+        "35.080299"
+    ],
+    "longitude": [
+        "135.658443"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ed2d216f5c6ad4020c7e55881fae1375/canvas/p1#xywh=3236,4393,845,857",
     "objectID": "1c9c1264aa2fc155343b787b916352cb",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/162/00000001.tif/3236,4393,845,857/200,/0/default.jpg",
     "図": [
         "神護寺領高雄山絵図"
+    ],
+    "架番号": [
+        "保-162"
+    ],
+    "表記": [
+        "寺尾"
     ]
 }

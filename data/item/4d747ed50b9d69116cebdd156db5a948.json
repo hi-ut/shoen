@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-55.json",
+    "description": [
+        "興福寺一乗院領荘園。現奈良県橿原市光陽町。"
+    ],
     "label": "箸喰庄",
+    "latitude": [
+        "34.483817"
+    ],
+    "longitude": [
+        "135.76712"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=1997,9057,4047,729",
     "objectID": "4d747ed50b9d69116cebdd156db5a948",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/1997,9057,4047,729/200,/0/default.jpg",
     "図": [
         "箸喰庄差図"
+    ],
+    "架番号": [
+        "保-55"
+    ],
+    "表記": [
+        "明応六年&lt;〃〔乙〕丁／巳&gt;十二月日　箸喰庄"
     ]
 }

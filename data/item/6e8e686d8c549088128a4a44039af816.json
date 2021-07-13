@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "description": [
+        ""
+    ],
     "label": "一反　トモヨリ",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=13698,1654,345,871",
     "objectID": "6e8e686d8c549088128a4a44039af816",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/13698,1654,345,871/200,/0/default.jpg",
     "図": [
         "但馬国神戸郷絵図"
+    ],
+    "架番号": [
+        "仁-124"
+    ],
+    "表記": [
+        "一反　トモヨリ"
     ]
 }

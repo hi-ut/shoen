@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-3.json",
+    "description": [
+        "勅宣日宮駒形根神社のことと思われる。現宮城県栗原市栗駒沼倉一ノ宮。日本武尊の勧請と伝えられる。"
+    ],
     "label": "駒形根",
+    "latitude": [
+        "38.87189"
+    ],
+    "longitude": [
+        "140.944698"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/3fd93cf97c1b6000149df96f6637640c/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=865,266,413,756",
     "objectID": "720e186210533ccdc6569979f1ebc00d",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/865,266,413,756/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（簡略図）"
+    ],
+    "架番号": [
+        "以-341-3"
+    ],
+    "表記": [
+        "駒形根"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県姫路市網干区高田。和久村の西に位置し、西は米田村。揖東郡に属する。"
+    ],
     "label": "高田",
+    "latitude": [
+        "34.812685"
+    ],
+    "longitude": [
+        "134.58258"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8810,22161,364,499",
     "objectID": "8420b46f0dcd1dec116fed710977606d",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8810,22161,364,499/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "高田"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "構村、岩見構村。現兵庫県揖保郡太子町岩見構。船代村の南に位置し、西は林田川で限られる。"
+    ],
     "label": "かまへ",
+    "latitude": [
+        "34.815143"
+    ],
+    "longitude": [
+        "134.559726"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6807,21878,395,627",
     "objectID": "fd8a3b188efb5e45e582846d812b6678",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6807,21878,395,627/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "かまへ"
     ]
 }

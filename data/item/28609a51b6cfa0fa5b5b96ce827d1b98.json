@@ -4,12 +4,27 @@
         "河"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "description": [
+        "現松井川。"
+    ],
     "label": "門河",
+    "latitude": [
+        "34.267516"
+    ],
+    "longitude": [
+        "135.397691"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=7197,8283,621,441",
     "objectID": "28609a51b6cfa0fa5b5b96ce827d1b98",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/7197,8283,621,441/200,/0/default.jpg",
     "図": [
         "紀伊国井上本庄絵図"
+    ],
+    "架番号": [
+        "以-335"
+    ],
+    "表記": [
+        "（朱筆）「門河」"
     ]
 }

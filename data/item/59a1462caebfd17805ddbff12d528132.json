@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/波-305.json",
+    "description": [
+        ""
+    ],
     "label": "北峯",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=3321,487,1439,945",
     "objectID": "59a1462caebfd17805ddbff12d528132",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/3321,487,1439,945/200,/0/default.jpg",
     "図": [
         "井上庄絵図"
+    ],
+    "架番号": [
+        "波-305"
+    ],
+    "表記": [
+        "北峯"
     ]
 }

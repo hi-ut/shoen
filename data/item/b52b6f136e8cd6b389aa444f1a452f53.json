@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        ""
+    ],
     "label": "地頭分",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=3820,4604,103,227",
     "objectID": "b52b6f136e8cd6b389aa444f1a452f53",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/3820,4604,103,227/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "地頭分"
     ]
 }

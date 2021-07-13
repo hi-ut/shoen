@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/波-305.json",
+    "description": [
+        "風市森神社付近に松の井という井戸があり、それに由来する地名とされる。"
+    ],
     "label": "松井",
+    "latitude": [
+        "34.268508"
+    ],
+    "longitude": [
+        "135.397143"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=4658,3717,407,601",
     "objectID": "804814ec65a810b636f992d1b7b276b9",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/4658,3717,407,601/200,/0/default.jpg",
     "図": [
         "井上庄絵図"
+    ],
+    "架番号": [
+        "波-305"
+    ],
+    "表記": [
+        "松井"
     ]
 }

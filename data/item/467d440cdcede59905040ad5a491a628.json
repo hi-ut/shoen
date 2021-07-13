@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市揖保川町新在家。野田村の南、揖保川右岸に位置する。"
+    ],
     "label": "新在家村",
+    "latitude": [
+        "34.834887"
+    ],
+    "longitude": [
+        "134.526773"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2197,19448,410,759",
     "objectID": "467d440cdcede59905040ad5a491a628",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/2197,19448,410,759/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "新在家村"
     ]
 }

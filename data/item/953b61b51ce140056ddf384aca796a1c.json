@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市誉田町長真。上沖村の北に位置し、揖東郡に属する。浦上井から分岐する井溝の先端に記される。"
+    ],
     "label": "長真",
+    "latitude": [
+        "34.847595"
+    ],
+    "longitude": [
+        "134.552129"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=5696,15854,399,486",
     "objectID": "953b61b51ce140056ddf384aca796a1c",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/5696,15854,399,486/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "長真"
     ]
 }

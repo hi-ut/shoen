@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-119.json",
+    "description": [
+        ""
+    ],
     "label": "地蔵院",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/canvas/p1#xywh=12072,12809,1223,1258",
     "objectID": "8fed4549b43693b1ee609f3ec7ee9abf",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/12072,12809,1223,1258/200,/0/default.jpg",
     "図": [
         "称名寺古図"
+    ],
+    "架番号": [
+        "保-119"
+    ],
+    "表記": [
+        "地蔵院"
     ]
 }

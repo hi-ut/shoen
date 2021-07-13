@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "別所村。現鳥取県東伯郡湯梨浜町別所。東郷川左岸に位置し、対岸は方面村、北は中尾村。東郷川最上流の村で、羽衣石山地の山麓台地を占め、南方波関峠を越えると三朝谷に至る。"
+    ],
     "label": "西別所",
+    "latitude": [
+        "35.452176"
+    ],
+    "longitude": [
+        "133.913228"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=2223,1207,299,211",
     "objectID": "6f32e3360acd5c4797a30f63e658ed40",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/2223,1207,299,211/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "西別所　東分"
     ]
 }

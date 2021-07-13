@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-55.json",
+    "description": [
+        ""
+    ],
     "label": "北浦　三反畠　五反アリ",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=5420,6982,364,791",
     "objectID": "199d9739f88432f296e2934e021d45d7",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/5420,6982,364,791/200,/0/default.jpg",
     "図": [
         "箸喰庄差図"
+    ],
+    "架番号": [
+        "保-55"
+    ],
+    "表記": [
+        "北浦　三反畠　五反アリ"
     ]
 }

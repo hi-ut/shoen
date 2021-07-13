@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "樋山。のち日山村。現兵庫県たつの市龍野町日山。揖西郡に属する。東端を揖保川が南流する。西は小神村。粒坐天照神社の参道から台山にかけてには武家屋敷があり、その西に集落が密集する。"
+    ],
     "label": "ひ山",
+    "latitude": [
+        "34.861104"
+    ],
+    "longitude": [
+        "134.537447"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1724,15361,525,361",
     "objectID": "6060d282f4e64d45a2c42a3229cf2195",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1724,15361,525,361/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "ひ山"
     ]
 }

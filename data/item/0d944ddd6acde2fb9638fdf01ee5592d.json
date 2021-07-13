@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市誉田町井上。片吹村の北に位置し、揖東郡に属する。北は高駄村、東は林田川を挟んで阿曾村。"
+    ],
     "label": "井上",
+    "latitude": [
+        "34.839543"
+    ],
+    "longitude": [
+        "134.558959"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6722,17543,298,449",
     "objectID": "0d944ddd6acde2fb9638fdf01ee5592d",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6722,17543,298,449/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "井上"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "description": [
+        "賀陽郡生石郷の郷名を継いだものか。山城神護寺領足守庄の南に隣接していた。現岡山県岡山市西端の足守川流域一帯に推定され、かつて小山村・高塚村・土田村があったことが確認されている。"
+    ],
     "label": "生石御庄",
+    "latitude": [
+        "34.69793"
+    ],
+    "longitude": [
+        "133.807559"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1487,23682,2788,1312",
     "objectID": "dd55000d7cffd5138c1619fcc78ebce4",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/1487,23682,2788,1312/200,/0/default.jpg",
     "図": [
         "足守庄図"
+    ],
+    "架番号": [
+        "保-38"
+    ],
+    "表記": [
+        "生石御庄堺堤田一条六丁　作人永宗坪　未申牓示"
     ]
 }

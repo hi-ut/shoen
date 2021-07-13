@@ -4,12 +4,27 @@
         "山"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-55.json",
+    "description": [
+        "nan"
+    ],
     "label": "箸喰山",
+    "latitude": [
+        "34.486538"
+    ],
+    "longitude": [
+        "135.770524"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/921324076bdc341df8e29d752c55af47/canvas/p1#xywh=2304,5733,1028,1105",
     "objectID": "e04b332792808af08c99b8e5b8ab53ca",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/55/00000001.tif/2304,5733,1028,1105/200,/0/default.jpg",
     "図": [
         "箸喰庄差図"
+    ],
+    "架番号": [
+        "保-55"
+    ],
+    "表記": [
+        "箸喰山"
     ]
 }

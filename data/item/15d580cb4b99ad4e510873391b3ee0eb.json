@@ -4,12 +4,27 @@
         "方角"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "description": [
+        ""
+    ],
     "label": "東",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=9024,7031,467,391",
     "objectID": "15d580cb4b99ad4e510873391b3ee0eb",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/9024,7031,467,391/200,/0/default.jpg",
     "図": [
         "菅浦与大浦下庄堺絵図"
+    ],
+    "架番号": [
+        "保-293"
+    ],
+    "表記": [
+        "東"
     ]
 }

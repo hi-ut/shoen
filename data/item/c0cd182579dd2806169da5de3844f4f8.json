@@ -4,12 +4,27 @@
         "池"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "description": [
+        ""
+    ],
     "label": "池",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6025,12400,401,282",
     "objectID": "c0cd182579dd2806169da5de3844f4f8",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/6025,12400,401,282/200,/0/default.jpg",
     "図": [
         "長門二宮絵図2"
+    ],
+    "架番号": [
+        "保-167-2"
+    ],
+    "表記": [
+        "池"
     ]
 }

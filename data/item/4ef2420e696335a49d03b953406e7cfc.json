@@ -4,12 +4,27 @@
         "川"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "description": [
+        "長府の野久留米から川端町などを通り、周防灘に流れる川。神功皇后が出陣の際にここに壇を築いて祭事を行い、これに使った道具類を流したという故事にちなんで壇具川と呼ばれる。"
+    ],
     "label": "壇具川",
+    "latitude": [
+        "33.996284"
+    ],
+    "longitude": [
+        "130.987944"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=6159,13785,1215,298",
     "objectID": "4ef2420e696335a49d03b953406e7cfc",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/6159,13785,1215,298/200,/0/default.jpg",
     "図": [
         "長門二宮絵図2"
+    ],
+    "架番号": [
+        "保-167-2"
+    ],
+    "表記": [
+        "壇具川"
     ]
 }

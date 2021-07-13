@@ -4,12 +4,27 @@
         "山"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-3.json",
+    "description": [
+        "白山社。石川県の白山比咩神を講じ迎えたところとされる。"
+    ],
     "label": "白山　寺崎",
+    "latitude": [
+        "38.975792"
+    ],
+    "longitude": [
+        "140.944194"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/3fd93cf97c1b6000149df96f6637640c/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3251,5823,494,703",
     "objectID": "bf8d59972f1fee48d1a893f809833668",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/3251,5823,494,703/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（簡略図）"
+    ],
+    "架番号": [
+        "以-341-3"
+    ],
+    "表記": [
+        "白山　寺崎"
     ]
 }

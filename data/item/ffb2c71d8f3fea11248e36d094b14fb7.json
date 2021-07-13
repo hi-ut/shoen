@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-39.json",
+    "description": [
+        "栂尾山高尾山。古義真言宗の別格本山で真言宗御室派に属したが、現在は単立。正式には栂尾山高山寺という。また日出先照高山之寺と称する。"
+    ],
     "label": "梅尾",
+    "latitude": [
+        "35.060119"
+    ],
+    "longitude": [
+        "135.678573"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1#xywh=4743,3821,447,580",
     "objectID": "ffb2c71d8f3fea11248e36d094b14fb7",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/4743,3821,447,580/200,/0/default.jpg",
     "図": [
         "主殿寮御領小野山与神護寺領堺相論指図"
+    ],
+    "架番号": [
+        "保-39"
+    ],
+    "表記": [
+        "梅尾"
     ]
 }

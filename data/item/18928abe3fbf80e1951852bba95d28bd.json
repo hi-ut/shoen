@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        ""
+    ],
     "label": "十二条七里卅五坪 佃坪 　 ○良仏　佃　一石四斗 　 ○庄司　佃　一石四斗 ○善学　佃　一石四斗 ○増教　佃　一石四斗 ○預所名　佃　庄司作一石四斗 （合点）後平三　佃　一石四斗 （合点）下司名　佃　一石四斗 （合点）禅勝　佃　一石四斗 （合点）善縁　佃　一石四斗 ○良仏　二枝　地子七升",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=5482,8897,2318,2366",
     "objectID": "18928abe3fbf80e1951852bba95d28bd",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/5482,8897,2318,2366/200,/0/default.jpg",
     "図": [
         "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
+        "十二条七里卅五坪 佃坪 　 ○良仏　佃　一石四斗 　 ○庄司　佃　一石四斗 ○善学　佃　一石四斗 ○増教　佃　一石四斗 ○預所名　佃　庄司作一石四斗 （合点）後平三　佃　一石四斗 （合点）下司名　佃　一石四斗 （合点）禅勝　佃　一石四斗 （合点）善縁　佃　一石四斗 ○良仏　二枝　地子七升"
     ]
 }

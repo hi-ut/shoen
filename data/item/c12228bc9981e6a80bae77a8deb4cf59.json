@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "常全村。現兵庫県揖保郡太子町常全。阿曾出屋敷村の南に位置し、西端は林田川で限られる。"
+    ],
     "label": "常金",
+    "latitude": [
+        "34.828531"
+    ],
+    "longitude": [
+        "134.562467"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7125,19621,442,448",
     "objectID": "c12228bc9981e6a80bae77a8deb4cf59",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7125,19621,442,448/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "常金"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "長須賀村。現愛知県名古屋市中川区長須賀。"
+    ],
     "label": "長須賀",
+    "latitude": [
+        "35.146627"
+    ],
+    "longitude": [
+        "136.826271"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=10503,8642,735,1059",
     "objectID": "6427a423c0c063700fd8af54d7faca39",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/10503,8642,735,1059/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "長須賀"
     ]
 }

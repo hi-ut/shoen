@@ -4,12 +4,27 @@
         "方位"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-39.json",
+    "description": [
+        ""
+    ],
     "label": "西",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1#xywh=6958,14048,570,527",
     "objectID": "04f2fc825d2abc5a9193abb80b520f68",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/6958,14048,570,527/200,/0/default.jpg",
     "図": [
         "主殿寮御領小野山与神護寺領堺相論指図"
+    ],
+    "架番号": [
+        "保-39"
+    ],
+    "表記": [
+        "西"
     ]
 }

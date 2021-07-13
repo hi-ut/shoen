@@ -4,12 +4,27 @@
         "方位"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-119.json",
+    "description": [
+        ""
+    ],
     "label": "北",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/canvas/p1#xywh=7663,391,480,543",
     "objectID": "2a747e85c5d9b16afc27243a7f34d774",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/7663,391,480,543/200,/0/default.jpg",
     "図": [
         "称名寺古図"
+    ],
+    "架番号": [
+        "保-119"
+    ],
+    "表記": [
+        "北"
     ]
 }

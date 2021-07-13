@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "description": [
+        ""
+    ],
     "label": "二反半　兵衛三郎屋敷&lt;御油／畠&gt;　大　ノカセヨナマスノ分　七反半　ヨナ マスノ名田　大　ハラタ畠　大　アフラヤ畠　郷分",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8509,10374,1258,1031",
     "objectID": "167aa5060cb48bc3e9b3fd70895e0232",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/8509,10374,1258,1031/200,/0/default.jpg",
     "図": [
         "但馬国神戸郷絵図"
+    ],
+    "架番号": [
+        "仁-124"
+    ],
+    "表記": [
+        "二反半　兵衛三郎屋敷&lt;御油／畠&gt;　大　ノカセヨナマスノ分　七反半　ヨナ マスノ名田　大　ハラタ畠　大　アフラヤ畠　郷分"
     ]
 }

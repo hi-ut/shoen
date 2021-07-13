@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "現干珠島。櫛崎の東一キロの所にある小島。"
+    ],
     "label": "平津嶋乾珠",
+    "latitude": [
+        "33.994683"
+    ],
+    "longitude": [
+        "131.008565"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=14591,7634,1232,705",
     "objectID": "0cd105c8d7c6c7b164d19f3cf0819650",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/14591,7634,1232,705/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "平津嶋乾珠"
     ]
 }

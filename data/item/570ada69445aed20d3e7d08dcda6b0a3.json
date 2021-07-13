@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県揖保郡太子町蓮常寺。福地村の東に位置する。連城寺村・蓮城寺村とも記す。"
+    ],
     "label": "蓮常寺",
+    "latitude": [
+        "34.822587"
+    ],
+    "longitude": [
+        "134.572222"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=8196,20695,616,376",
     "objectID": "570ada69445aed20d3e7d08dcda6b0a3",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/8196,20695,616,376/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "蓮常寺"
     ]
 }

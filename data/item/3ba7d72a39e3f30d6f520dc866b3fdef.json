@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "現山口県下関市長府宮崎町。大内氏の治下になると、雄山城（櫛崎城）が築かれた。"
+    ],
     "label": "串崎",
+    "latitude": [
+        "33.991489"
+    ],
+    "longitude": [
+        "130.993792"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=15059,13312,630,500",
     "objectID": "3ba7d72a39e3f30d6f520dc866b3fdef",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/15059,13312,630,500/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "串崎"
     ]
 }

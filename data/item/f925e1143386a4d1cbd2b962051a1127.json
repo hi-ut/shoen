@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県揖保川と大津茂川に挟まれた両川の河口部に位置する。中世から湊として栄えた。"
+    ],
     "label": "網干",
+    "latitude": [
+        "34.784149"
+    ],
+    "longitude": [
+        "134.586834"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=9617,26243,431,621",
     "objectID": "f925e1143386a4d1cbd2b962051a1127",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/9617,26243,431,621/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "網干"
     ]
 }

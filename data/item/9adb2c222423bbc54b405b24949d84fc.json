@@ -4,12 +4,27 @@
         "方位"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-57.json",
+    "description": [
+        ""
+    ],
     "label": "南二十三条",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/canvas/p1#xywh=997,3566,606,1498",
     "objectID": "9adb2c222423bbc54b405b24949d84fc",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/57/00000001.tif/997,3566,606,1498/200,/0/default.jpg",
     "図": [
         "百済庄屋敷田畠差図"
+    ],
+    "架番号": [
+        "保-57"
+    ],
+    "表記": [
+        "南二十三条"
     ]
 }

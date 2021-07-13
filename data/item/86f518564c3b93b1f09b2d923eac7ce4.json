@@ -4,12 +4,27 @@
         "河"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "description": [
+        "現奈良県桜井市高家に発し、上流を八釣川という。西流して高市郡明日香村八釣・奥山を経て橿原市に入り、出合町で山田川を合し、耳成山の東・北を回って北流、磯城郡田原本町境で寺川に合する。"
+    ],
     "label": "河",
+    "latitude": [
+        "34.509485"
+    ],
+    "longitude": [
+        "135.821802"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=6338,5093,413,703",
     "objectID": "86f518564c3b93b1f09b2d923eac7ce4",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/6338,5093,413,703/200,/0/default.jpg",
     "図": [
         "膳夫庄差図"
+    ],
+    "架番号": [
+        "保-56"
+    ],
+    "表記": [
+        "河"
     ]
 }

@@ -4,12 +4,27 @@
         "榜示"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-39.json",
+    "description": [
+        ""
+    ],
     "label": "小乃与神護寺堺牓示松尾峯",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1#xywh=3477,9539,529,1019",
     "objectID": "bbfac1c4a6bf84a766eebb8d69f10a72",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/3477,9539,529,1019/200,/0/default.jpg",
     "図": [
         "主殿寮御領小野山与神護寺領堺相論指図"
+    ],
+    "架番号": [
+        "保-39"
+    ],
+    "表記": [
+        "小乃与神護寺堺牓示松尾峯"
     ]
 }

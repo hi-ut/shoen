@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/波-305.json",
+    "description": [
+        "粉河寺。和泉山脈の南側丘陵、風猛山の南麓に位置する。風猛山（古くは補陀落山）と号し、粉河観音宗の本山。"
+    ],
     "label": "小川寺",
+    "latitude": [
+        "34.280954"
+    ],
+    "longitude": [
+        "135.405919"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/ea6905a866f4f1fe04515b8a286dc593/canvas/p1#xywh=5904,2417,625,843",
     "objectID": "3adf23a27beb177ba080447532d86c41",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/305/00000001.tif/5904,2417,625,843/200,/0/default.jpg",
     "図": [
         "井上庄絵図"
+    ],
+    "架番号": [
+        "波-305"
+    ],
+    "表記": [
+        "小川寺"
     ]
 }

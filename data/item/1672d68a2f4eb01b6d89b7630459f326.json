@@ -4,12 +4,27 @@
         "山"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "四王司山。厚東氏の居城が築かれた山。"
+    ],
     "label": "四王寺山",
+    "latitude": [
+        "34.02841"
+    ],
+    "longitude": [
+        "130.981874"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=1385,769,1748,3734",
     "objectID": "1672d68a2f4eb01b6d89b7630459f326",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/1385,769,1748,3734/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "四王寺山"
     ]
 }

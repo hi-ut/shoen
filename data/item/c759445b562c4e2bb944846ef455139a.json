@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-124.json",
+    "description": [
+        ""
+    ],
     "label": "大　一宮御油畠　大　郷分畠　二反小　糸井畠",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/6f84e176d9b2cf40e49acab2cba0900e/canvas/p1#xywh=8858,7509,760,743",
     "objectID": "c759445b562c4e2bb944846ef455139a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/124/00000001.tif/8858,7509,760,743/200,/0/default.jpg",
     "図": [
         "但馬国神戸郷絵図"
+    ],
+    "架番号": [
+        "仁-124"
+    ],
+    "表記": [
+        "大　一宮御油畠　大　郷分畠　二反小　糸井畠"
     ]
 }

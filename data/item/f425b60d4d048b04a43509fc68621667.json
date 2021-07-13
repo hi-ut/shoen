@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "現自性院。北野山自性院成願寺と号し、真言宗。現愛知県海部郡大治町砂子千手堂。"
+    ],
     "label": "成願寺",
+    "latitude": [
+        "35.163808"
+    ],
+    "longitude": [
+        "136.823751"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=9866,5801,1198,1111",
     "objectID": "f425b60d4d048b04a43509fc68621667",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/9866,5801,1198,1111/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "成願寺"
     ]
 }

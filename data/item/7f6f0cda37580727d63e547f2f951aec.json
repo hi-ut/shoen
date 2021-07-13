@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "description": [
+        "貴志川の支流真国川沿いの地と、その周辺山間部の現和歌山県海草郡紀美野町北野・初生谷・花野原・蓑津呂・真国宮・蓑垣内・井堰付近を荘域とした。南は神野庄である。"
+    ],
     "label": "真国村",
+    "latitude": [
+        "34.169463"
+    ],
+    "longitude": [
+        "135.379813"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=4343,8947,1209,1111",
     "objectID": "7f6f0cda37580727d63e547f2f951aec",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/4343,8947,1209,1111/200,/0/default.jpg",
     "図": [
         "紀伊国神野真国御庄絵図　康治二年"
+    ],
+    "架番号": [
+        "保-66"
+    ],
+    "表記": [
+        "真国村"
     ]
 }

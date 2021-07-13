@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-1.json",
+    "description": [
+        "伝ミタケ堂跡。山岳信仰の聖地であったと考えられている場所であるが、遺構などは見つかっていない。"
+    ],
     "label": "ミタケアト",
+    "latitude": [
+        "38.981739"
+    ],
+    "longitude": [
+        "140.950963"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/fe8a1ee96488d525108a960d38fb1e75/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7752,3441,386,650",
     "objectID": "d25adcb6f0cfdbbe655c2b7b0be52098",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-1/00000001.tif/7752,3441,386,650/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（詳細図）　[表]"
+    ],
+    "架番号": [
+        "以-341-1"
+    ],
+    "表記": [
+        "ミタケアト"
     ]
 }

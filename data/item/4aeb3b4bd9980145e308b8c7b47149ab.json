@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "description": [
+        "井上本庄。紀ノ川北岸の河岸段丘上にあった荘園で、長田庄ともいう。東は粉河庄、西は井上新庄。古くは摂関家領荘園であったが、山城随心院に寄進され、室町時代に粉河寺領となった。"
+    ],
     "label": "井上庄",
+    "latitude": [
+        "34.282432"
+    ],
+    "longitude": [
+        "135.391638"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4551,9116,419,452",
     "objectID": "4aeb3b4bd9980145e308b8c7b47149ab",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/4551,9116,419,452/200,/0/default.jpg",
     "図": [
         "紀伊国井上本庄絵図"
+    ],
+    "架番号": [
+        "以-335"
+    ],
+    "表記": [
+        "井上庄内"
     ]
 }

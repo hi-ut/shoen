@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "description": [
+        ""
+    ],
     "label": "辰巳牓示　備前国堺石畳山",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=11838,24730,2069,842",
     "objectID": "7d86a5923419c823b0ccdfc8d0757790",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/11838,24730,2069,842/200,/0/default.jpg",
     "図": [
         "足守庄図"
+    ],
+    "架番号": [
+        "保-38"
+    ],
+    "表記": [
+        "辰巳牓示　備前国堺石畳山"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "description": [
+        "忌宮神社。現山口県下関市長府宮の内町。長府地域のほぼ中央に位置し、東方に周防灘を望む小高い丘に鎮座する。本殿を挟んで左に若宮神社、右に高良社がある。社殿の後方は楠などの社叢となっている。旧国幣小社。"
+    ],
     "label": "長門二宮",
+    "latitude": [
+        "33.999034"
+    ],
+    "longitude": [
+        "130.987609"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=17175,18902,1041,2875",
     "objectID": "9eacae93527c6f367fadebecbe3ed254",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/17175,18902,1041,2875/200,/0/default.jpg",
     "図": [
         "長門二宮絵図2"
+    ],
+    "架番号": [
+        "保-167-2"
+    ],
+    "表記": [
+        "長門二宮"
     ]
 }

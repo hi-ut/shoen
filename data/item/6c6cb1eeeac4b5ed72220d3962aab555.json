@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        ""
+    ],
     "label": "廻廊",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=11787,7311,336,555",
     "objectID": "6c6cb1eeeac4b5ed72220d3962aab555",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/11787,7311,336,555/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "廻廊"
     ]
 }

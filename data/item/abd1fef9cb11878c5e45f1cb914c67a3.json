@@ -4,12 +4,27 @@
         "峯"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "description": [
+        "現滋賀県長浜市西浅井町山田の真南にある451メートルの山にあたる。"
+    ],
     "label": "山田峯",
+    "latitude": [
+        "35.484296"
+    ],
+    "longitude": [
+        "136.145368"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=8962,2669,484,285",
     "objectID": "abd1fef9cb11878c5e45f1cb914c67a3",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/8962,2669,484,285/200,/0/default.jpg",
     "図": [
         "菅浦与大浦下庄堺絵図"
+    ],
+    "架番号": [
+        "保-293"
+    ],
+    "表記": [
+        "山田峯"
     ]
 }

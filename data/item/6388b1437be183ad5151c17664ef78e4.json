@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        ""
+    ],
     "label": "十二条七里廿七坪　石田 （合点）善縁　八斗　 （合点）藤内　二斗 （合点）二反　下司名 （合点）後平三　四斗 　二反　他領 　職事田 　他領　 　（合点）藤内　佃一石四斗　 　（合点）四郎　佃一石四斗",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=7887,11339,2222,2359",
     "objectID": "6388b1437be183ad5151c17664ef78e4",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/7887,11339,2222,2359/200,/0/default.jpg",
     "図": [
         "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
+        "十二条七里廿七坪　石田 （合点）善縁　八斗　 （合点）藤内　二斗 （合点）二反　下司名 （合点）後平三　四斗 　二反　他領 　職事田 　他領　 　（合点）藤内　佃一石四斗　 　（合点）四郎　佃一石四斗"
     ]
 }

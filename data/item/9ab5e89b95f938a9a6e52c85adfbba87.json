@@ -4,12 +4,27 @@
         "河"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "description": [
+        ""
+    ],
     "label": "五川混一流、其末云佐佐小河〈源有五名自其／流合下佐々子河一名也〉",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=6961,13177,3062,611",
     "objectID": "9ab5e89b95f938a9a6e52c85adfbba87",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/6961,13177,3062,611/200,/0/default.jpg",
     "図": [
         "紀伊国神野真国御庄絵図　康治二年"
+    ],
+    "架番号": [
+        "保-66"
+    ],
+    "表記": [
+        "五川混一流、其末云佐佐小河〈源有五名自其／流合下佐々子河一名也〉"
     ]
 }

@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "黍田村。現兵庫県たつの市揖保川町黍田。山津屋村の西に位置し、北は北山村。南部に宝記山が迫り、北部を馬路川が流れる。"
+    ],
     "label": "きびた村",
+    "latitude": [
+        "34.824925"
+    ],
+    "longitude": [
+        "134.521735"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=463,21432,386,715",
     "objectID": "6f53259bba98c2d9fe3f1ce64c2ea35a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/463,21432,386,715/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "きびた村"
     ]
 }

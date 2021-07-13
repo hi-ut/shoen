@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "上得真・下得真と合わせて徳実村となる。現愛知県あま市七宝町徳実。"
+    ],
     "label": "得真",
+    "latitude": [
+        "35.14899"
+    ],
+    "longitude": [
+        "136.798738"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=3865,8191,1123,563",
     "objectID": "b41d7b18ae0d35bf3619537f8ba98f0a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/3865,8191,1123,563/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "上得真"
     ]
 }

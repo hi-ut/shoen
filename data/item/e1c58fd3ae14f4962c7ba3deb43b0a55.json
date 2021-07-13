@@ -4,12 +4,27 @@
         "花押"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-172.json",
+    "description": [
+        ""
+    ],
     "label": "西自大井河流、東至于五條尼公領参町也（花押）",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/2684bace769556bd6ba40678aca7b718/canvas/p1#xywh=5320,11631,986,4935",
     "objectID": "e1c58fd3ae14f4962c7ba3deb43b0a55",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/172/00000001.tif/5320,11631,986,4935/200,/0/default.jpg",
     "図": [
         "舎那院御領之絵図"
+    ],
+    "架番号": [
+        "保-172"
+    ],
+    "表記": [
+        "西自大井河流、東至于五條尼公領参町也（花押）"
     ]
 }

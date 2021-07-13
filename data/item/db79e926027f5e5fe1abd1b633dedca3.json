@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "伯耆国の最東端、日本海に突出する甲亀山両側の地域と、その背後の丘陵・山地を占めたと推定される摂関家領庄園。東郷庄の東に接していた。"
+    ],
     "label": "笏賀",
+    "latitude": [
+        "35.502053"
+    ],
+    "longitude": [
+        "133.923633"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=1175,2769,197,114",
     "objectID": "db79e926027f5e5fe1abd1b633dedca3",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/1175,2769,197,114/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "笏賀"
     ]
 }

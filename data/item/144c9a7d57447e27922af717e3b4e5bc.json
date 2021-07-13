@@ -4,12 +4,27 @@
         "宮"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "description": [
+        "現豊功神社。大正六年に鎮座の松崎八幡宮と豊功神社が合祀。松崎八幡宮はかつて櫛崎八幡宮・串崎若宮とも称した。"
+    ],
     "label": "松崎八幡宮",
+    "latitude": [
+        "33.9924"
+    ],
+    "longitude": [
+        "130.994936"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=13418,15064,2030,1390",
     "objectID": "144c9a7d57447e27922af717e3b4e5bc",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/13418,15064,2030,1390/200,/0/default.jpg",
     "図": [
         "長門二宮絵図2"
+    ],
+    "架番号": [
+        "保-167-2"
+    ],
+    "表記": [
+        "松崎八幡宮"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-293.json",
+    "description": [
+        "大浦庄と菅浦の係争地である耕地の一つ。"
+    ],
     "label": "日差",
+    "latitude": [
+        "35.47666"
+    ],
+    "longitude": [
+        "136.134317"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e9355506fb9a2a3360e3d60a43ffcc3e/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/保-293/manifest.json/canvas/p1#xywh=6530,5229,370,274",
     "objectID": "9056dc9b78bd58c7449c5ea82c13a328",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/293/00000001.tif/6530,5229,370,274/200,/0/default.jpg",
     "図": [
         "菅浦与大浦下庄堺絵図"
+    ],
+    "架番号": [
+        "保-293"
+    ],
+    "表記": [
+        "日差"
     ]
 }

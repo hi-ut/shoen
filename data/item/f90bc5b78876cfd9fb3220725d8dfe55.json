@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "description": [
+        ""
+    ],
     "label": "ハタウラ　一町",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=13147,5109,936,1041",
     "objectID": "f90bc5b78876cfd9fb3220725d8dfe55",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/13147,5109,936,1041/200,/0/default.jpg",
     "図": [
         "膳夫庄差図"
+    ],
+    "架番号": [
+        "保-56"
+    ],
+    "表記": [
+        "ハタウラ　一町"
     ]
 }

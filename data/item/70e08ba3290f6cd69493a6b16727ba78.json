@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-341-3.json",
+    "description": [
+        "骨寺村の東端、逆柴山の頂付近にある石積塚。慈恵大師が祀られているとされる。現岩手県一関市厳美町下真坂付近。"
+    ],
     "label": "慈恵塚",
+    "latitude": [
+        "38.975341"
+    ],
+    "longitude": [
+        "140.971928"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/3fd93cf97c1b6000149df96f6637640c/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7184,11242,525,189",
     "objectID": "70e08ba3290f6cd69493a6b16727ba78",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/341-3/00000001.tif/7184,11242,525,189/200,/0/default.jpg",
     "図": [
         "陸奥国骨寺絵図（簡略図）"
+    ],
+    "架番号": [
+        "以-341-3"
+    ],
+    "表記": [
+        "慈恵坂"
     ]
 }

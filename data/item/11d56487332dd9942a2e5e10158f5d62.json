@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市揖保町中臣。山下村の南に位置し、揖西郡に属する。東は揖東郡下沖村。村の中心部を揖保川の旧河道に沿って浦上井が蛇行しながら流れる。"
+    ],
     "label": "中陣村",
+    "latitude": [
+        "34.836849"
+    ],
+    "longitude": [
+        "134.544396"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=4848,18394,296,557",
     "objectID": "11d56487332dd9942a2e5e10158f5d62",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/4848,18394,296,557/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "中陣村"
     ]
 }

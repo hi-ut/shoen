@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "description": [
+        "現奈良県奈良市西大寺芝町一丁目。秋篠川西方に所在する真言律宗総本山。本尊釈迦如来。"
+    ],
     "label": "西大寺",
+    "latitude": [
+        "34.693614"
+    ],
+    "longitude": [
+        "135.779498"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=6329,8526,4234,3298",
     "objectID": "97f168159a7200b07a70e1a3be2fc43a",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/6329,8526,4234,3298/200,/0/default.jpg",
     "図": [
         "大和国西大寺与秋篠寺堺相論絵図"
+    ],
+    "架番号": [
+        "仁-126"
+    ],
+    "表記": [
+        "西大寺"
     ]
 }

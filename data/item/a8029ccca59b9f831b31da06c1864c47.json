@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-66.json",
+    "description": [
+        "神野庄。貴志川の真国川合流点より上流の谷間とその両岸の山地を荘域とする。南は有田郡との境をなす長峰山脈が走る。現在の海草郡紀美野町福田・安井・野中・南畑・永谷・神野市場・樋下・箕六・大角・三尾川・上井・津川・鎌滝・赤木・明添・高畑・桂瀬が荘域と考えられる。"
+    ],
     "label": "神野",
+    "latitude": [
+        "34.142185"
+    ],
+    "longitude": [
+        "135.350004"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a8366c56c85c4b7cd42609391738c65a/canvas/p1#xywh=9171,6788,498,436",
     "objectID": "a8029ccca59b9f831b31da06c1864c47",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/66/00000001.tif/9171,6788,498,436/200,/0/default.jpg",
     "図": [
         "紀伊国神野真国御庄絵図　康治二年"
+    ],
+    "架番号": [
+        "保-66"
+    ],
+    "表記": [
+        "神野"
     ]
 }

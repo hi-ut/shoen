@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-39.json",
+    "description": [
+        "現京都府京都市右京区梅ヶ畑高雄町。清滝川の北西にそびえる高雄山の山腹に位置する。高雄山と号し、高野山真言宗別格本山。本尊薬師如来。神護国祚真言寺。"
+    ],
     "label": "神護寺",
+    "latitude": [
+        "35.05502"
+    ],
+    "longitude": [
+        "135.670866"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/33e6d6b103fbb1bb0930cd6290217512/canvas/p1#xywh=8241,6700,1405,1162",
     "objectID": "e634888af8208a622a6a0dc2b1deea58",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/39/00000001.tif/8241,6700,1405,1162/200,/0/default.jpg",
     "図": [
         "主殿寮御領小野山与神護寺領堺相論指図"
+    ],
+    "架番号": [
+        "保-39"
+    ],
+    "表記": [
+        "神護寺"
     ]
 }

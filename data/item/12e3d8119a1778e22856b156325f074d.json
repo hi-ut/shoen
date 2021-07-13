@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-38.json",
+    "description": [
+        ""
+    ],
     "label": "北",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/18019a96a27167058907151614e08c3a/manifest.json",
     "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7723,602,376,331",
     "objectID": "12e3d8119a1778e22856b156325f074d",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/38/00000001.tif/7723,602,376,331/200,/0/default.jpg",
     "図": [
         "足守庄図"
+    ],
+    "架番号": [
+        "保-38"
+    ],
+    "表記": [
+        "北"
     ]
 }

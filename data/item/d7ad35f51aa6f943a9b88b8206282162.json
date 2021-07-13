@@ -4,12 +4,27 @@
         "方位"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "description": [
+        ""
+    ],
     "label": "南",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=386,7409,362,505",
     "objectID": "d7ad35f51aa6f943a9b88b8206282162",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/386,7409,362,505/200,/0/default.jpg",
     "図": [
         "大和国西大寺与秋篠寺堺相論絵図"
+    ],
+    "架番号": [
+        "仁-126"
+    ],
+    "表記": [
+        "南"
     ]
 }

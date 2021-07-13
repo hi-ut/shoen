@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-56.json",
+    "description": [
+        "現奈良県橿原市下八釣町。"
+    ],
     "label": "八鈎領",
+    "latitude": [
+        "34.499311"
+    ],
+    "longitude": [
+        "135.81541"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/80cf603a6a3f0f25539ad2f010eefeca/canvas/p1#xywh=15412,1459,654,1324",
     "objectID": "696b0004bf5855c7d249642cb00a8172",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/56/00000001.tif/15412,1459,654,1324/200,/0/default.jpg",
     "図": [
         "膳夫庄差図"
+    ],
+    "架番号": [
+        "保-56"
+    ],
+    "表記": [
+        "八鈎領"
     ]
 }

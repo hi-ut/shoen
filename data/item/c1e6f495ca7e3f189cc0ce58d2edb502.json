@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-108.json",
+    "description": [
+        "現鳥取県東伯郡湯梨浜町野花。西ノ上に鎮座。旧村社。祭神別雷命・大山咋神など一一柱。"
+    ],
     "label": "松尾社",
+    "latitude": [
+        "35.462316"
+    ],
+    "longitude": [
+        "133.885702"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/a31f0196303382470de2f784396fe24f/canvas/p1#xywh=3324,1855,225,242",
     "objectID": "c1e6f495ca7e3f189cc0ce58d2edb502",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/108/00000001.tif/3324,1855,225,242/200,/0/default.jpg",
     "図": [
         "伯耆国河村郡東郷庄之図"
+    ],
+    "架番号": [
+        "仁-108"
+    ],
+    "表記": [
+        "松尾社　西分"
     ]
 }

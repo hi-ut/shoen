@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-2.json",
+    "description": [
+        "現満珠島。櫛崎の東一キロにある干珠島のさらに東一キロの海上にある小島。"
+    ],
     "label": "満珠沖津",
+    "latitude": [
+        "33.995487"
+    ],
+    "longitude": [
+        "131.026506"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/e857ce9f0868e4a58c6775eaf1b2f23b/canvas/p1#xywh=16627,8784,938,1399",
     "objectID": "2db1c07d42484e67d5780311c5d9026c",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-2/00000001.tif/16627,8784,938,1399/200,/0/default.jpg",
     "図": [
         "長門二宮絵図2"
+    ],
+    "架番号": [
+        "保-167-2"
+    ],
+    "表記": [
+        "満珠沖津"
     ]
 }

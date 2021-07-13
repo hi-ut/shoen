@@ -4,12 +4,27 @@
         "堂"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-119.json",
+    "description": [
+        ""
+    ],
     "label": "骨堂",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/f3185a58cd767da5905865a38b372036/canvas/p1#xywh=13074,6127,1385,1536",
     "objectID": "88c7c985a57a7d3627bacfa9b32b1090",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/119/00000001.tif/13074,6127,1385,1536/200,/0/default.jpg",
     "図": [
         "称名寺古図"
+    ],
+    "架番号": [
+        "保-119"
+    ],
+    "表記": [
+        "骨堂"
     ]
 }

@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-237.json",
+    "description": [
+        ""
+    ],
     "label": "十二条八里三坪 三坪 （合点）禅勝屋敷　一反 （合点）禅勝公事田　七升 ○良仏屋敷 ○目屋敷 ○預所名　藤内作 ○平太郎屋敷 （合点）善縁屋敷 （合点）楢丸屋敷 （合点）下司名屋敷 ○増勝屋敷",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/88515d308c9d055d863c5aed8d4a3b81/canvas/p1#xywh=10240,6478,2252,2383",
     "objectID": "1a950f62f6d787816582bf8c84f24851",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/237/00000001.tif/10240,6478,2252,2383/200,/0/default.jpg",
     "図": [
         "乙木庄条里坪付図"
+    ],
+    "架番号": [
+        "保-237"
+    ],
+    "表記": [
+        "十二条八里三坪 三坪 （合点）禅勝屋敷　一反 （合点）禅勝公事田　七升 ○良仏屋敷 ○目屋敷 ○預所名　藤内作 ○平太郎屋敷 （合点）善縁屋敷 （合点）楢丸屋敷 （合点）下司名屋敷 ○増勝屋敷"
     ]
 }

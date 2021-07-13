@@ -4,12 +4,27 @@
         "村"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市揖保川町正条。新在家村の南に位置し、揖保川右岸に立地する。山陽道の宿駅。中世には山科家領下揖保庄西方に含まれる。"
+    ],
     "label": "正条村",
+    "latitude": [
+        "34.825272"
+    ],
+    "longitude": [
+        "134.52929"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=1911,20634,367,661",
     "objectID": "4f5c60bfcb5350b43cfb69305d432bfa",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/1911,20634,367,661/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "正条村"
     ]
 }

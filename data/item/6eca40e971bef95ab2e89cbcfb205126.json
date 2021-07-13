@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "現兵庫県たつの市誉田町片吹。下沖村の南東に位置し、揖東郡に属する。東は林田川を挟んで阿曾村。村の南端を山陽道が通る。"
+    ],
     "label": "片吹",
+    "latitude": [
+        "34.831636"
+    ],
+    "longitude": [
+        "134.557179"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=6003,18728,388,519",
     "objectID": "6eca40e971bef95ab2e89cbcfb205126",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/6003,18728,388,519/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "片吹"
     ]
 }

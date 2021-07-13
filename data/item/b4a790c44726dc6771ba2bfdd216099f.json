@@ -4,12 +4,27 @@
         "田"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-335.json",
+    "description": [
+        ""
+    ],
     "label": "宮荒間田",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/dfb4a7727796fa20fc4823b4a50c52e7/canvas/p1#xywh=4394,2154,393,518",
     "objectID": "b4a790c44726dc6771ba2bfdd216099f",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/335/00000001.tif/4394,2154,393,518/200,/0/default.jpg",
     "図": [
         "紀伊国井上本庄絵図"
+    ],
+    "架番号": [
+        "以-335"
+    ],
+    "表記": [
+        "宮荒間田"
     ]
 }

@@ -4,12 +4,27 @@
         "寺"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/仁-126.json",
+    "description": [
+        "現奈良県奈良市秋篠町。西大寺の北にある。単立寺院。阿陀縛狗山と号し、本尊は薬師三尊像。"
+    ],
     "label": "秋篠寺",
+    "latitude": [
+        "34.703166"
+    ],
+    "longitude": [
+        "135.775643"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/7dd68fbd778e5f052b399d38b229d876/canvas/p1#xywh=18693,6208,3110,3245",
     "objectID": "829c4ea38129c10ab0b9c5a48d3316a9",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_104ni_/126/00000001.tif/18693,6208,3110,3245/200,/0/default.jpg",
     "図": [
         "大和国西大寺与秋篠寺堺相論絵図"
+    ],
+    "架番号": [
+        "仁-126"
+    ],
+    "表記": [
+        "秋篠寺"
     ]
 }

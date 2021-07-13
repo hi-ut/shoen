@@ -4,12 +4,27 @@
         "川"
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "栗栖川。揖保川の支流。"
+    ],
     "label": "くろす川",
+    "latitude": [
+        "34.890472"
+    ],
+    "longitude": [
+        "134.541965"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=2415,8117,1329,1734",
     "objectID": "10e631adccbd7e791356944f7f852d02",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/2415,8117,1329,1734/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "くろす川"
     ]
 }

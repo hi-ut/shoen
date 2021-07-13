@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-69.json",
+    "description": [
+        "旧愛知郡内の伊勢神宮領。愛知郡の西端に位置し、西側で御厨川（現庄内川）および堤を挟んで海東郡富田庄と境を接する。現愛知県名古屋市中村区西南部およびこの南方に続く現中川区の庄内川左岸一帯を中心とし、一部右岸をも含む地域に比定することができる。"
+    ],
     "label": "一楊御厨",
+    "latitude": [
+        "35.139572"
+    ],
+    "longitude": [
+        "136.839182"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/5303400a3408fc2de580a3f6ff8ffc84/canvas/p1#xywh=12378,8864,888,1093",
     "objectID": "a0d37b04c0517251d484d3c5bafaa3ce",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/69/00000001.tif/12378,8864,888,1093/200,/0/default.jpg",
     "図": [
         "尾張国富田庄知行古図"
+    ],
+    "架番号": [
+        "保-69"
+    ],
+    "表記": [
+        "一楊御厨"
     ]
 }

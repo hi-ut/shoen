@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/以-328.json",
+    "description": [
+        "老原村か。現兵庫県揖保郡太子町老原。阿曾出屋敷村の南に位置する。"
+    ],
     "label": "せ原",
+    "latitude": [
+        "34.82715"
+    ],
+    "longitude": [
+        "134.571066"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/429c5f278d0c810bdc0f4472d6805b00/canvas/p1#xywh=7627,19960,239,453",
     "objectID": "6ca9cf3280f083ece15d7e9b6aa003c1",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_101i_/328/00000001.tif/7627,19960,239,453/200,/0/default.jpg",
     "図": [
         "揖保川筋堰図"
+    ],
+    "架番号": [
+        "以-328"
+    ],
+    "表記": [
+        "せ原"
     ]
 }

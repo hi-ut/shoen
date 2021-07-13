@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-167-1.json",
+    "description": [
+        "およそ現山口県下関市長府亀の甲一丁目四番地の東半分などが敷地として比定されている。"
+    ],
     "label": "守護代所",
+    "latitude": [
+        "34.00068"
+    ],
+    "longitude": [
+        "130.988539"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/b42b1822decb81dc464094aa1a7e1182/canvas/p1#xywh=10750,1946,2481,897",
     "objectID": "ea6de5333d4e43a7aba5a10dd1be25fb",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/167-1/00000001.tif/10750,1946,2481,897/200,/0/default.jpg",
     "図": [
         "長門二宮絵図1"
+    ],
+    "架番号": [
+        "保-167-1"
+    ],
+    "表記": [
+        "守護代所"
     ]
 }

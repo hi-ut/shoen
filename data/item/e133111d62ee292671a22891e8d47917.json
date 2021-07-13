@@ -4,12 +4,27 @@
         ""
     ],
     "curation": "https://nakamura196.github.io/shoen/curation/保-57.json",
+    "description": [
+        "奈良県北葛城郡広陵町百済を中心とするが、南は現大和高田市大字松塚の北辺にも及んでいる。"
+    ],
     "label": "百済庄",
+    "latitude": [
+        "34.542635"
+    ],
+    "longitude": [
+        "135.762712"
+    ],
     "manifest": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/manifest.json",
     "member": "https://nakamura196.github.io/shoen/iiif/fe5483efcb8d7b62f4a927e5a641f2de/canvas/p1#xywh=16897,4050,569,4327",
     "objectID": "e133111d62ee292671a22891e8d47917",
     "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_105ho_/57/00000001.tif/16897,4050,569,4327/200,/0/default.jpg",
     "図": [
         "百済庄屋敷田畠差図"
+    ],
+    "架番号": [
+        "保-57"
+    ],
+    "表記": [
+        "十八条中一里　百済一庄之内屋敷田畠差図"
     ]
 }
