@@ -11,7 +11,10 @@
 
             <script src="https://dayjournal.github.io/Leaflet.Control.Opacity/plugin/Leaflet.Control.Opacity/dist/L.Control.Opacity.js"></script>
             <link href="https://dayjournal.github.io/Leaflet.Control.Opacity/plugin/Leaflet.Control.Opacity/dist/L.Control.Opacity.css" rel="stylesheet" />
-
+            
+            <link rel="stylesheet" href="https://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.css" />
+            <link rel="stylesheet" href="https://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.Default.css" />
+            <script src="https://leaflet.github.io/Leaflet.markercluster/dist/leaflet.markercluster-src.js"></script>
 
             <style>
                 body { margin:0; padding:0; }
@@ -62,23 +65,75 @@
         // Overlay layers (TMS)
         var lyr = L.tileLayer('https://nakamura196.github.io/shoen/files/%E4%BB%81-108/{z}/{x}/{y}.png', {tms: 0, opacity: 1.0, attribution: "", minZoom: 3, maxZoom: 18});
 
+        // Overlay layers (TMS)
+        // var i328= L.tileLayer('https://nakamura196.github.io/shoen/files/以-328/{z}/{x}/{y}.png', {tms: 0, opacity: 1.0, attribution: "", minZoom: 3, maxZoom: 18});
+
+        var map2 = {
+            "仁-108" : {
+                label: "伯耆国河村郡東郷庄之図",
+                area: "[[35.37549779199775, 133.99629248877577], [35.53763257208167, 133.82242056367633]]"
+            },
+            /*
+            "仁-124" : {
+                label: "但馬国神戸郷絵図" ///
+            },
+            */
+            "仁-126" : {
+                label: "大和国西大寺与秋篠寺堺相論絵図",
+                area : "[[34.67681788486549, 135.7910650373658], [34.73499803551114, 135.78225484499313]]"
+            },
+            "以-328" : {
+                label: "揖保川筋堰図",
+                area : "[[34.77956921592404, 134.608822789808], [34.93717897363611, 134.5162094811197]]"
+            },
+            "以-341-3" : {
+                label: "陸奥国骨寺絵図（簡略図）",
+                area: "[[38.92326866313592, 141.0056835947305], [39.00452942252907, 140.89290474759994]]"
+            },
+            "以-335" : {
+                label: "紀伊国井上本庄絵図", ////
+                area : "[[34.26519841234924, 135.40825109131626], [34.293035064875426, 135.37736242017414]]"
+            },
+            "保-162" : {
+                label: "神護寺領高雄山絵図",
+                area : "[[35.01648473720891, 135.6984232509302], [35.10734978552389, 135.64710369621207]]"
+            },
+            "保-167-1" : {
+                label: "長門二宮絵図1",
+                area: "[[33.964566209968176, 131.01179938266807], [34.01936793401684, 130.94573110339869]]"
+            }
+        }
+
+        var layers = [opentopomap, lyr]
+
+        var overlaymaps = {}
+
+        for(let key in map2){
+            const lyr_each = L.tileLayer('https://nakamura196.github.io/shoen/files/'+key+'/{z}/{x}/{y}.png', {tms: 0, opacity: 1.0, attribution: "", minZoom: 3, maxZoom: 18})
+            layers.push(lyr_each)
+            map2[key].layer = lyr_each
+        }
+
         // Map
         var map = L.map('map', {
             center: [35.45656518203971, 133.90935652622605],
-            zoom: 18,
+            zoom: 6,
             minZoom: 3,
             maxZoom: 18,
-            layers: [opentopomap, lyr]
+            layers
         });
 
         var basemaps = {"地理院タイル": opentopomap, 
         //"CartoDB Positron": cartodb, "Stamen Toner": toner, 
         "Without background": white}
 
-        var label = "伯耆国河村郡東郷庄之図"
+        //var label = "伯耆国河村郡東郷庄之図"
+        //overlaymaps[label] = lyr
 
-        var overlaymaps = {}
-        overlaymaps[label] = lyr
+        for(let key in map2){
+            const item = map2[key]
+            overlaymaps[item.label] = item.layer
+        }
 
         // Title
         var title = L.control();
@@ -103,7 +158,16 @@
             return this._div;
         };
         title.update = function(props) {
-            //this._div.innerHTML = src;
+
+            let lis = ""
+            for(let key in map2){
+                let item = map2[key]
+                lis += `<li><a href=\"javascript:zoom(${item.area});\">${item.label}</a></li>`
+            }
+            
+            let div = "<div style='text-align: left;'><p>当該地図へフォーカス</p><ul>"+lis+"</ul></div>"
+            
+            this._div.innerHTML = div //src;
         };
         title.addTo(map);
 
@@ -119,27 +183,40 @@
             .addTo(map);
 
         // Fit to overlay bounds (SW and NE points with (lat, lon))
-        map.fitBounds([[35.37549779199775, 133.99629248877577], [35.53763257208167, 133.82242056367633]]);
+        // map.fitBounds([[35.37549779199775, 133.99629248877577], [35.53763257208167, 133.82242056367633]]);
 
         let xhr = new XMLHttpRequest();
         xhr.open('GET', "../data/index.json");
 
         xhr.onload = () => {
             let responseJson = JSON.parse(xhr.response);
+
+            var markers = L.markerClusterGroup();
+
             for(const item of responseJson){
-                if(item["図"][0] === label){
+                //if(item["図"][0] === label){
                     if(item.latitude[0] !== ""){
 
-                        marker = new L.marker([Number(item.latitude[0]), Number(item.longitude[0])])
+                        const marker = new L.marker([Number(item.latitude[0]), Number(item.longitude[0])])
                         .bindPopup(`<div><a target="_parent" href="../item/${item.objectID}">${item.label}</a></div>`)
-                        .addTo(map);
+                        //.addTo(map);
+
+                        markers.addLayer(marker);
                             }
+
+                        
                     
-                }
+                //}
             }
+
+            map.addLayer(markers);
         }
 
         xhr.send();
+
+        function zoom(area){
+            map.fitBounds(area);
+        }
         </script>
 
         </body>
