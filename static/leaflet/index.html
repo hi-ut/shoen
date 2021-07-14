@@ -63,7 +63,7 @@
         var white = L.tileLayer("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEX///+nxBvIAAAAH0lEQVQYGe3BAQ0AAADCIPunfg43YAAAAAAAAAAA5wIhAAAB9aK9BAAAAABJRU5ErkJggg==", {minZoom: 3, maxZoom: 18});
 
         // Overlay layers (TMS)
-        var lyr = L.tileLayer('https://nakamura196.github.io/shoen/files/%E4%BB%81-108/{z}/{x}/{y}.png', {tms: 0, opacity: 1.0, attribution: "", minZoom: 3, maxZoom: 18});
+        // var lyr = L.tileLayer('https://nakamura196.github.io/shoen/files/%E4%BB%81-108/{z}/{x}/{y}.png', {tms: 0, opacity: 1.0, attribution: "", minZoom: 3, maxZoom: 18});
 
         // Overlay layers (TMS)
         // var i328= L.tileLayer('https://nakamura196.github.io/shoen/files/以-328/{z}/{x}/{y}.png', {tms: 0, opacity: 1.0, attribution: "", minZoom: 3, maxZoom: 18});
@@ -104,7 +104,7 @@
             }
         }
 
-        var layers = [opentopomap, lyr]
+        var layers = [opentopomap]
 
         var overlaymaps = {}
 
