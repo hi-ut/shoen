@@ -10,7 +10,7 @@
       </v-container>
     </v-sheet>
 
-    <v-container class="py-5">
+    <v-container class="py-5" fluid>
       <h2 class="mb-5">{{ $t('map') }}</h2>
       <!--
       <div id="map-wrap" style="height: 80vh" class="my-2">
