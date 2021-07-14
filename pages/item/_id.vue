@@ -36,6 +36,10 @@
       </h1>
 
       <p class="text-center">
+        <v-btn icon class="ma-1" target="_blank" :href="rdfUrl"
+          ><img :src="baseUrl + '/img/icons/rdf-logo.svg'" width="24px"
+        /></v-btn>
+
         <v-btn v-if="viewerUrl" icon class="ma-1" target="_blank" :href="viewerUrl"
           ><img :src="baseUrl + '/img/icons/icp-logo.svg'" width="24px"
         /></v-btn>
@@ -328,6 +332,10 @@ export default class Item extends Vue {
         manifest +
         '&bottomPanel=true'
     }
+  }
+
+  get rdfUrl() {
+    return "https://nakamura196.github.io/shoen/snorql/?describe=http%3A%2F%2Fexample.org%2Fdata%2F" + this.$route.params.id
   }
 
   getQuery(key: string, value: string) {
